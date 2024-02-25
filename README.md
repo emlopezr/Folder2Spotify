@@ -76,18 +76,19 @@ Esta herramienta simplifica el proceso de creación de listas de reproducción e
 1. **Go to Spotify for Developers Dashboard:** https://developer.spotify.com/dashboard
 
 2. **Create an app to get tokens:**
-
-    - IMAGE1
-    - IMAGE2
+    ![Screenshot_1](https://github.com/emlopezr/Folder2Spotify/assets/45053254/43dc8ba8-40a9-41bb-80b8-79af9a56c198)
+    ![Screenshot_2](https://github.com/emlopezr/Folder2Spotify/assets/45053254/25e71a69-d104-450f-9aee-e6837c4a9d9f)
 
 3. **Get the Client ID and Client secret:**
+    ![Screenshot_3](https://github.com/emlopezr/Folder2Spotify/assets/45053254/b3b6a3a5-c0b7-48e7-8e80-81ab5261ba24)
+    ![Screenshot_4](https://github.com/emlopezr/Folder2Spotify/assets/45053254/1118f84e-a7ed-4852-a80b-d1bf32c9277b)
+    ![Screenshot_5](https://github.com/emlopezr/Folder2Spotify/assets/45053254/4df9c146-a8f5-47dd-b6c4-3c83c82482b4)
+    ![Screenshot_1](https://github.com/emlopezr/Folder2Spotify/assets/45053254/33420ffc-8730-45ae-b341-bd840be3f0a9)
 
-    - IMAGE3
-    - IMAGE4
 
 4. **Make a folder that contains all the songs:**
+    ![Screenshot_2](https://github.com/emlopezr/Folder2Spotify/assets/45053254/0cc0896d-f5c3-4a77-9793-f3510d723f04)
 
-    - IMAGE5
 
 5. **Run the Python program:** Use any of this commands
     ```bash
@@ -145,18 +146,17 @@ Esta herramienta simplifica el proceso de creación de listas de reproducción e
 1. **Ve al Panel de Control de Spotify para Desarrolladores:** [https://developer.spotify.com/dashboard](https://developer.spotify.com/dashboard)
 
 2. **Crea una aplicación para obtener tokens:**
-
-    - IMAGE1
-    - IMAGE2
+    ![Screenshot_1](https://github.com/emlopezr/Folder2Spotify/assets/45053254/43dc8ba8-40a9-41bb-80b8-79af9a56c198)
+    ![Screenshot_2](https://github.com/emlopezr/Folder2Spotify/assets/45053254/25e71a69-d104-450f-9aee-e6837c4a9d9f)
 
 3. **Obtén el ID de Cliente y la Clave Secreta de Cliente:**
-
-    - IMAGE3
-    - IMAGE4
+    ![Screenshot_3](https://github.com/emlopezr/Folder2Spotify/assets/45053254/b3b6a3a5-c0b7-48e7-8e80-81ab5261ba24)
+    ![Screenshot_4](https://github.com/emlopezr/Folder2Spotify/assets/45053254/1118f84e-a7ed-4852-a80b-d1bf32c9277b)
+    ![Screenshot_5](https://github.com/emlopezr/Folder2Spotify/assets/45053254/4df9c146-a8f5-47dd-b6c4-3c83c82482b4)
+    ![Screenshot_1](https://github.com/emlopezr/Folder2Spotify/assets/45053254/33420ffc-8730-45ae-b341-bd840be3f0a9)
 
 4. **Crea una carpeta que contenga todas las canciones:**
-
-    - IMAGE5
+    ![Screenshot_2](https://github.com/emlopezr/Folder2Spotify/assets/45053254/0cc0896d-f5c3-4a77-9793-f3510d723f04)
 
 5. **Ejecuta el programa Python:** Utiliza alguno de estos comandos
     ```bash
