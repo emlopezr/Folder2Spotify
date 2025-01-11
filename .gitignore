@@ -179,3 +179,5 @@ dump_file.txt
 CANCIONES/
 canciones/
 songs_*/
+reports
+*.json

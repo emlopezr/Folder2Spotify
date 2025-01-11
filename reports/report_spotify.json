@@ -1,0 +1,3042 @@
+{
+    "29 Kany Garcia Hoy Ya Me Voy": {
+        "artist": "Kany Garcia",
+        "title": "Hoy Ya Me Voy",
+        "album": "Cualquier Dia",
+        "release_date": "2007-07-24",
+        "spotify.uri": "spotify:track:58zE9NyMKGTpzV5J8WyXXe",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/58zE9NyMKGTpzV5J8WyXXe",
+        "spotify.id": "58zE9NyMKGTpzV5J8WyXXe"
+    },
+    "02 alejandro martinez - sucedio": {
+        "artist": "Alejandro Martinez",
+        "title": "Sucedio ( Ella Mintio)",
+        "album": "Alejandro Martinez",
+        "release_date": "1995-02-05",
+        "spotify.uri": "spotify:track:637VxyNmJNtqNBoANILhfN",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/637VxyNmJNtqNBoANILhfN",
+        "spotify.id": "637VxyNmJNtqNBoANILhfN"
+    },
+    "12 diego torres - penelope": {
+        "artist": "Diego Torres",
+        "title": "Penelope",
+        "album": "Lo Esencial de Noches de Bohemia",
+        "release_date": "2010-02-01",
+        "spotify.uri": "spotify:track:7imPloXAqWjd1UdUdJEAXF",
+        "spotify.track_number": 13,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7imPloXAqWjd1UdUdJEAXF",
+        "spotify.id": "7imPloXAqWjd1UdUdJEAXF"
+    },
+    "Cristian Castro Lo mejor de mi letra": {
+        "artist": "Cristian",
+        "title": "Lo Mejor de Mi",
+        "album": "Grandes Hits",
+        "release_date": "2002-08-30",
+        "spotify.uri": "spotify:track:3deEKI2RwUPAvKEZrXJrD4",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3deEKI2RwUPAvKEZrXJrD4",
+        "spotify.id": "3deEKI2RwUPAvKEZrXJrD4"
+    },
+    "Pablo Alboran Pasos de cero (Lyric video)": {
+        "artist": "Pablo Alboran",
+        "title": "Pasos de cero",
+        "album": "Terral",
+        "release_date": "2014-11-10",
+        "spotify.uri": "spotify:track:18mmN3VrFWRi6SsSBJf6WJ",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/18mmN3VrFWRi6SsSBJf6WJ",
+        "spotify.id": "18mmN3VrFWRi6SsSBJf6WJ"
+    },
+    "Santiago Cruz En Tus Zapatos": {
+        "artist": "Santiago Cruz",
+        "title": "En Tus Zapatos (Version Acustica en Vivo)",
+        "album": "Cruce de caminos: Acustico, real y en vivo",
+        "release_date": "2011-07-27",
+        "spotify.uri": "spotify:track:2nSvCpOQPeCLXN5mUBh7IE",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2nSvCpOQPeCLXN5mUBh7IE",
+        "spotify.id": "2nSvCpOQPeCLXN5mUBh7IE"
+    },
+    "01_CUANDO_DUERMES[1]": {
+        "artist": "Complices",
+        "title": "Cuando Duermes",
+        "album": "Grandes Exitos: Complicidad",
+        "release_date": "2003-06-12",
+        "spotify.uri": "spotify:track:5YrrTg4O6MTF2L7WlfotJn",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5YrrTg4O6MTF2L7WlfotJn",
+        "spotify.id": "5YrrTg4O6MTF2L7WlfotJn"
+    },
+    "27 'Entre tanta gente', Lucas Arnau": {
+        "artist": "Lucas Arnau",
+        "title": "Entre Tanta Gente",
+        "album": "Buen Camino",
+        "release_date": "2015-06-19",
+        "spotify.uri": "spotify:track:1097jN4A75iTvJjDSx3nJU",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1097jN4A75iTvJjDSx3nJU",
+        "spotify.id": "1097jN4A75iTvJjDSx3nJU"
+    },
+    "Gloria Estefan Con Los Anos Que Me Quedan": {
+        "artist": "Gloria Estefan",
+        "title": "Con los Anos Que Me Quedan",
+        "album": "Oye Mi Canto...Los Exitos",
+        "release_date": "2006-09-21",
+        "spotify.uri": "spotify:track:5UPd6Gyj4aoaTUTlpWSak5",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5UPd6Gyj4aoaTUTlpWSak5",
+        "spotify.id": "5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    "Te Busco Celia Cruz (1925 2003)": {
+        "artist": "Celia Cruz",
+        "title": "Te Busco",
+        "album": "Serie Cinco Estrellas",
+        "release_date": "2008-02-12",
+        "spotify.uri": "spotify:track:5AuS5Nk1vs2vJNPlwB04F1",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5AuS5Nk1vs2vJNPlwB04F1",
+        "spotify.id": "5AuS5Nk1vs2vJNPlwB04F1"
+    },
+    "19la cosa mas bella": {
+        "artist": "Eros Ramazzotti",
+        "title": "Piu bella cosa",
+        "album": "Eros - Best Of",
+        "release_date": "2004-11-02",
+        "spotify.uri": "spotify:track:0KligwQn4Iy344p2Q5m6k6",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0KligwQn4Iy344p2Q5m6k6",
+        "spotify.id": "0KligwQn4Iy344p2Q5m6k6"
+    },
+    "21 sin bandera - entra en mi vida": {
+        "artist": "Sin Bandera",
+        "title": "Entra en Mi Vida",
+        "album": "Lo Esencial de Noches de Bohemia",
+        "release_date": "2010-02-01",
+        "spotify.uri": "spotify:track:2h0iSG7htO0V4IvuwbTBf3",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2h0iSG7htO0V4IvuwbTBf3",
+        "spotify.id": "2h0iSG7htO0V4IvuwbTBf3"
+    },
+    "14 cuentame": {
+        "artist": "Alejandro Sanz",
+        "title": "Siempre Es De Noche",
+        "album": "Mas",
+        "release_date": "1997-08-28",
+        "spotify.uri": "spotify:track:6ZL2hqLpDdMzDkxIp7I7aZ",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6ZL2hqLpDdMzDkxIp7I7aZ",
+        "spotify.id": "6ZL2hqLpDdMzDkxIp7I7aZ"
+    },
+    "Luis Miguel El Dia Que Me Quieras (Video Oficial)": {
+        "artist": "Luis Miguel",
+        "title": "El Dia Que Me Quieras",
+        "album": "Mis Boleros Favoritos (UPC)",
+        "release_date": "2002-10-15",
+        "spotify.uri": "spotify:track:3NKIbFFAioTfznWbnjAMXX",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3NKIbFFAioTfznWbnjAMXX",
+        "spotify.id": "3NKIbFFAioTfznWbnjAMXX"
+    },
+    "Usted Diego Torres y Vicentico": {
+        "artist": "Diego Torres",
+        "title": "Usted (MTV Unplugged)",
+        "album": "MTV Unplugged",
+        "release_date": "2004-04-27",
+        "spotify.uri": "spotify:track:08llaN4Lh6GCfd9aHInwB2",
+        "spotify.track_number": 13,
+        "spotify.href": "https://api.spotify.com/v1/tracks/08llaN4Lh6GCfd9aHInwB2",
+        "spotify.id": "08llaN4Lh6GCfd9aHInwB2"
+    },
+    "No Podras Christian Castro": {
+        "artist": "Cristian",
+        "title": "No Podras",
+        "album": "Simplemente Amor 3",
+        "release_date": "2012-02-21",
+        "spotify.uri": "spotify:track:2xuke1OBFKsOJbsionFKUk",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2xuke1OBFKsOJbsionFKUk",
+        "spotify.id": "2xuke1OBFKsOJbsionFKUk"
+    },
+    "22 sin bandera - kilometros": {
+        "artist": "Sin Bandera",
+        "title": "Kilometros",
+        "album": "Lo Esencial de Amor del Bueno",
+        "release_date": "2010-02-01",
+        "spotify.uri": "spotify:track:0AcFsf9FGjL1Al2RBQ1Crq",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0AcFsf9FGjL1Al2RBQ1Crq",
+        "spotify.id": "0AcFsf9FGjL1Al2RBQ1Crq"
+    },
+    "04 ricky martin - no importa la distancia": {
+        "artist": "Ricky Martin",
+        "title": "No Importa la Distancia (Go the Distance)",
+        "album": "Vuelve",
+        "release_date": "1998-02-10",
+        "spotify.uri": "spotify:track:4QKkCh2wn5iTdws70W9XaR",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4QKkCh2wn5iTdws70W9XaR",
+        "spotify.id": "4QKkCh2wn5iTdws70W9XaR"
+    },
+    "jaci velasquez COMO SE CURA UNA HERIDA en letras": {
+        "artist": "Jaci Velasquez",
+        "title": "Como Se Cura Una Herida",
+        "album": "Mi Corazon",
+        "release_date": "1997-08-04",
+        "spotify.uri": "spotify:track:0cX6akLoO8PWoTGJbjmcoK",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0cX6akLoO8PWoTGJbjmcoK",
+        "spotify.id": "0cX6akLoO8PWoTGJbjmcoK"
+    },
+    "Estoy hablando de ella Fabian Gallardo": {
+        "artist": "Fabian Gallardo",
+        "title": "Estoy Hablando de Ella",
+        "album": "25 Anos de Pop/Rock (Argentina), Vol. 1",
+        "release_date": "2015-05-12",
+        "spotify.uri": "spotify:track:2CfOoBSn2pliZyEqE5dSGs",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2CfOoBSn2pliZyEqE5dSGs",
+        "spotify.id": "2CfOoBSn2pliZyEqE5dSGs"
+    },
+    "La Frase Tonta De La Semana (Letra) La Quinta Estacion": {
+        "artist": "La 5a Estacion",
+        "title": "La Frase Tonta De La Semana",
+        "album": "El Mundo Se Equivoca",
+        "release_date": "2006-08-15",
+        "spotify.uri": "spotify:track:0CS6QfGD1OBlwbPHd4x0cY",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0CS6QfGD1OBlwbPHd4x0cY",
+        "spotify.id": "0CS6QfGD1OBlwbPHd4x0cY"
+    },
+    "Andres Cepeda - Enfermedad de Ti myfreemp3.vip": {
+        "artist": "Andres Cepeda",
+        "title": "Enfermedad de Ti",
+        "album": "Basado en una Historia Real",
+        "release_date": "2014-08-01",
+        "spotify.uri": "spotify:track:3W04gCEMGeCVFjWH1iV5yj",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3W04gCEMGeCVFjWH1iV5yj",
+        "spotify.id": "3W04gCEMGeCVFjWH1iV5yj"
+    },
+    "11 alejandro sanz y shakira - te lo agradezco pero no": {
+        "artist": "Alejandro Sanz",
+        "title": "Te lo agradezco, pero no",
+        "album": "Te lo agradezco, pero no (feat. Shakira Alemania)",
+        "release_date": "2007-08-31",
+        "spotify.uri": "spotify:track:0TSO6afZViXH6OUlIMl6m4",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0TSO6afZViXH6OUlIMl6m4",
+        "spotify.id": "0TSO6afZViXH6OUlIMl6m4"
+    },
+    "Sin Bandera Que Me Alcance La Vida (Video)": {
+        "artist": "Sin Bandera",
+        "title": "Que Me Alcance la Vida",
+        "album": "Un Ano De Exitos Vol.2",
+        "release_date": "2007-06-29",
+        "spotify.uri": "spotify:track:0doPUFYZPjLAFNfqoZy7Jw",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0doPUFYZPjLAFNfqoZy7Jw",
+        "spotify.id": "0doPUFYZPjLAFNfqoZy7Jw"
+    },
+    "'Por Amarte Asi' Christian Castro": {
+        "artist": "Cristian Castro",
+        "title": "Por Amarte Asi",
+        "album": "Primavera",
+        "release_date": "1999-12-30",
+        "spotify.uri": "spotify:track:2bvO1KXbUd4vySCWGNqIIa",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2bvO1KXbUd4vySCWGNqIIa",
+        "spotify.id": "2bvO1KXbUd4vySCWGNqIIa"
+    },
+    "06 alejandro martinez - grabado en la piel": {
+        "artist": "Alejandro Martinez",
+        "title": "Grabado En La Piel",
+        "album": "Alejandro Martinez",
+        "release_date": "1995-02-05",
+        "spotify.uri": "spotify:track:24K9x9nNEA01cliYiccUFv",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/24K9x9nNEA01cliYiccUFv",
+        "spotify.id": "24K9x9nNEA01cliYiccUFv"
+    },
+    "Sin Bandera Te vi Venir Letra": {
+        "artist": "Sin Bandera",
+        "title": "Te Vi Venir",
+        "album": "Sin Bandera",
+        "release_date": "2001-09-25",
+        "spotify.uri": "spotify:track:3WpUm0g3LnhZcdMDmaj3XM",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3WpUm0g3LnhZcdMDmaj3XM",
+        "spotify.id": "3WpUm0g3LnhZcdMDmaj3XM"
+    },
+    "26 Camila Todo Cambi (Letra)": {
+        "artist": "Camila",
+        "title": "Todo Cambio",
+        "album": "Lo Esencial de Amor del Bueno",
+        "release_date": "2010-02-01",
+        "spotify.uri": "spotify:track:4OyzSXRSadNQt5EMwASdap",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4OyzSXRSadNQt5EMwASdap",
+        "spotify.id": "4OyzSXRSadNQt5EMwASdap"
+    },
+    "Brindis.... (Thalia)": {
+        "artist": "Thalia",
+        "title": "Equivocada",
+        "album": "Equivocada",
+        "release_date": "2009-10-12",
+        "spotify.uri": "spotify:track:4ToSegPTNl2894LRte8ice",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4ToSegPTNl2894LRte8ice",
+        "spotify.id": "4ToSegPTNl2894LRte8ice"
+    },
+    "08 aleks syntek_por volverte a ver": {
+        "artist": "Aleks Syntek",
+        "title": "Por Volverte A Ver (2008 Digital Remaster) (2008 - Remaster)",
+        "album": "1989-2009",
+        "release_date": "2009-02-13",
+        "spotify.uri": "spotify:track:7DWyvLXgPJWz7Ff2KkA7dE",
+        "spotify.track_number": 20,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7DWyvLXgPJWz7Ff2KkA7dE",
+        "spotify.id": "7DWyvLXgPJWz7Ff2KkA7dE"
+    },
+    "Toda La Vida Emmanuel 1986": {
+        "artist": "Emmanuel",
+        "title": "Toda la Vida",
+        "album": "Mis Favoritas",
+        "release_date": "2010-06-14",
+        "spotify.uri": "spotify:track:6X8J99PRgZx5m2xVe6Ou7c",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6X8J99PRgZx5m2xVe6Ou7c",
+        "spotify.id": "6X8J99PRgZx5m2xVe6Ou7c"
+    },
+    "Compania Ilimitada Santa Lucia (2)": {
+        "artist": "Compania Ilimitada",
+        "title": "Santa Lucia",
+        "album": "Santa Lucia",
+        "release_date": "2019-09-13",
+        "spotify.uri": "spotify:track:3oCD6ZZ9rSyiv5Mb8jFEeJ",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3oCD6ZZ9rSyiv5Mb8jFEeJ",
+        "spotify.id": "3oCD6ZZ9rSyiv5Mb8jFEeJ"
+    },
+    "03 alejandro sanz - quisiera ser": {
+        "artist": "Alejandro Sanz",
+        "title": "Quisiera Ser",
+        "album": "Grandes exitos 1991-2004 Ed. especial",
+        "release_date": "2004-09-23",
+        "spotify.uri": "spotify:track:2MnNZIetVS8IVfy9PtpLeb",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2MnNZIetVS8IVfy9PtpLeb",
+        "spotify.id": "2MnNZIetVS8IVfy9PtpLeb"
+    },
+    "15 alejandro sanz - y si fuera ella": {
+        "artist": "Alejandro Sanz",
+        "title": "Y, Si Fuera Ella?",
+        "album": "Grandes exitos 1991-2004 Ed. especial",
+        "release_date": "2004-09-23",
+        "spotify.uri": "spotify:track:1DmlUpnkg4N1VWquSoffF1",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1DmlUpnkg4N1VWquSoffF1",
+        "spotify.id": "1DmlUpnkg4N1VWquSoffF1"
+    },
+    "Magneto - Para Siempre (Video Oficial)_iukFo-dTguM": {
+        "artist": "Magneto",
+        "title": "Para Siempre",
+        "album": "La Historia De Magneto",
+        "release_date": "2007-06-22",
+        "spotify.uri": "spotify:track:4KncgWWPfxEqt3T9wTT4fe",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4KncgWWPfxEqt3T9wTT4fe",
+        "spotify.id": "4KncgWWPfxEqt3T9wTT4fe"
+    },
+    "28 Alguien kani garcia": {
+        "artist": "Kany Garcia",
+        "title": "Alguien",
+        "album": "Simplemente... Exitos Baladas",
+        "release_date": "2014-11-04",
+        "spotify.uri": "spotify:track:5Yf9nkFp0JoR6V048LfnbG",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5Yf9nkFp0JoR6V048LfnbG",
+        "spotify.id": "5Yf9nkFp0JoR6V048LfnbG"
+    },
+    "16 alejandro saenz mi soledad y yo": {
+        "artist": "Alejandro Sanz",
+        "title": "Mi Soledad Y Yo",
+        "album": "Grandes exitos 1991-1996",
+        "release_date": "2004-09-23",
+        "spotify.uri": "spotify:track:3GFLbBgMuY2RELNo6tMqOS",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3GFLbBgMuY2RELNo6tMqOS",
+        "spotify.id": "3GFLbBgMuY2RELNo6tMqOS"
+    },
+    "05 soraya - de repente": {
+        "artist": "Soraya",
+        "title": "De Repente",
+        "album": "Gold",
+        "release_date": "2007-04-16",
+        "spotify.uri": "spotify:track:0JjvYHmOJbYwaGx97sm2YF",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0JjvYHmOJbYwaGx97sm2YF",
+        "spotify.id": "0JjvYHmOJbYwaGx97sm2YF"
+    },
+    "10 diego torres - color esperanza": {
+        "artist": "Diego Torres",
+        "title": "Color Esperanza",
+        "album": "Un Mundo Diferente",
+        "release_date": "2001-10-31",
+        "spotify.uri": "spotify:track:3T07pNAEVr9adeIG9i1ex4",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3T07pNAEVr9adeIG9i1ex4",
+        "spotify.id": "3T07pNAEVr9adeIG9i1ex4"
+    },
+    "25 Andres Cepeda Desesperado (Official Audio)": {
+        "artist": "Andres Cepeda",
+        "title": "Desesperado",
+        "album": "Pop 2020",
+        "release_date": "2020-01-23",
+        "spotify.uri": "spotify:track:0EHEj5i2wSNHO3bsqilaEP",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0EHEj5i2wSNHO3bsqilaEP",
+        "spotify.id": "0EHEj5i2wSNHO3bsqilaEP"
+    },
+    "Shakira Te Dejo Madrid": {
+        "artist": "Shakira",
+        "title": "Te Dejo Madrid",
+        "album": "Hablamos De Madrid",
+        "release_date": "2010-03-08",
+        "spotify.uri": "spotify:track:3ToWC9JYSmDIa9yJs0k6PO",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3ToWC9JYSmDIa9yJs0k6PO",
+        "spotify.id": "3ToWC9JYSmDIa9yJs0k6PO"
+    },
+    "Presuntos Implicados feat. Randy Crawford - Fallen (feat. Randy Crawford) myfreemp3.vip": {
+        "artist": "Presuntos Implicados",
+        "title": "Fallen",
+        "album": "En Concierto - La Noche",
+        "release_date": "1995-10-20",
+        "spotify.uri": "spotify:track:5w9KLkyoxjwWgXJQAnQDlj",
+        "spotify.track_number": 13,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5w9KLkyoxjwWgXJQAnQDlj",
+        "spotify.id": "5w9KLkyoxjwWgXJQAnQDlj"
+    },
+    "Me muero La Quinta Estacin con letra": {
+        "artist": "La 5a Estacion",
+        "title": "Me Muero",
+        "album": "Lo Esencial de Amor del Bueno",
+        "release_date": "2010-02-01",
+        "spotify.uri": "spotify:track:3ri9fLG89OdSpjxheYxU7S",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3ri9fLG89OdSpjxheYxU7S",
+        "spotify.id": "3ri9fLG89OdSpjxheYxU7S"
+    },
+    "Luis Angel - Flor Dormida": {
+        "artist": "Luis Angel",
+        "title": "Flor Dormida",
+        "album": "Senales de Vida",
+        "release_date": "2018-03-30",
+        "spotify.uri": "spotify:track:3pfz7GYNOjF9bsSFl7nSZX",
+        "spotify.track_number": 15,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3pfz7GYNOjF9bsSFl7nSZX",
+        "spotify.id": "3pfz7GYNOjF9bsSFl7nSZX"
+    },
+    "efectos de sonido - musica de peliculas - superman": {
+        "artist": "John Williams",
+        "title": "Main Title (From \"Superman\") (Instrumental)",
+        "album": "John Williams - Greatest Hits 1969-1999",
+        "release_date": "1999-11-01",
+        "spotify.uri": "spotify:track:5My95PvNVMMSkgcxv75lvE",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5My95PvNVMMSkgcxv75lvE",
+        "spotify.id": "5My95PvNVMMSkgcxv75lvE"
+    },
+    "Piotr Ilich Tchaikovsky 1812 Overture (Finale)": {
+        "artist": "Churchbells of Gothenburg",
+        "title": "Tchaikovsky: Overture 1812, Op.49 - Overture 1812 - Beginning",
+        "album": "Tchaikovsky Para Trabalhar",
+        "release_date": "2020-07-03",
+        "spotify.uri": "spotify:track:03Gh8AgAroYqSfr0B1Z2Ue",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/03Gh8AgAroYqSfr0B1Z2Ue",
+        "spotify.id": "03Gh8AgAroYqSfr0B1Z2Ue"
+    },
+    "Aaron Copland Fanfare For The Common Man": {
+        "artist": "Eugene Ormandy",
+        "title": "Fanfare for the Common Man",
+        "album": "Copland Greatest Hits",
+        "release_date": "2012-08-14",
+        "spotify.uri": "spotify:track:1AMxcYOOZUcf4MbJWRO9E9",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1AMxcYOOZUcf4MbJWRO9E9",
+        "spotify.id": "1AMxcYOOZUcf4MbJWRO9E9"
+    },
+    "2CELLOS Smooth Criminal [OFFICIAL AUDIO]": {
+        "artist": "2CELLOS",
+        "title": "Smooth Criminal",
+        "album": "Virtuosos",
+        "release_date": "2016-12-16",
+        "spotify.uri": "spotify:track:41B5pgb2nOO4QYXAOaAQGm",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/41B5pgb2nOO4QYXAOaAQGm",
+        "spotify.id": "41B5pgb2nOO4QYXAOaAQGm"
+    },
+    "musica de peliculas - terminator": {
+        "artist": "Brad Fiedel",
+        "title": "Main Title Terminator 2 Theme",
+        "album": "Movie Soundtracks",
+        "release_date": "2020-05-22",
+        "spotify.uri": "spotify:track:2Q84nSfFAHtFNwZhAKH0Sa",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2Q84nSfFAHtFNwZhAKH0Sa",
+        "spotify.id": "2Q84nSfFAHtFNwZhAKH0Sa"
+    },
+    "The Lonely shepherd (El Pastor Solitario) Gheorghe Zamfir 1978 Rumania": {
+        "artist": "Shirim Sion Peru",
+        "title": "Volare Ante Ti",
+        "album": "Volare Ante Ti",
+        "release_date": "2021-07-01",
+        "spotify.uri": "spotify:track:3lulZkuT2m9ZMZ5sBEBSAP",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3lulZkuT2m9ZMZ5sBEBSAP",
+        "spotify.id": "3lulZkuT2m9ZMZ5sBEBSAP"
+    },
+    "frank pourcel - marlboro": {
+        "artist": "Cincinnati Pops Orchestra & Erich Kunzel",
+        "title": "The Magnificent Seven",
+        "album": "3",
+        "release_date": "2013-09-16",
+        "spotify.uri": "spotify:track:6egY88caS1VCrKFOtAiMRI",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6egY88caS1VCrKFOtAiMRI",
+        "spotify.id": "6egY88caS1VCrKFOtAiMRI"
+    },
+    "Dan Gibson - Track 4": {
+        "artist": "Dan Gibson's Solitudes",
+        "title": "Around the Campfire",
+        "album": "Appalachian Mountain Suite",
+        "release_date": "2013-01-01",
+        "spotify.uri": "spotify:track:18EEdMSto2R4Y4tD4qowjp",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/18EEdMSto2R4Y4tD4qowjp",
+        "spotify.id": "18EEdMSto2R4Y4tD4qowjp"
+    },
+    "coco lee & yo-yo ma - crouching tiger, hidden dragon - farewell": {
+        "artist": "Yo-Yo Ma",
+        "title": "Farewell",
+        "album": "Bonds: Listen To This, 2/E",
+        "release_date": "2010-10-01",
+        "spotify.uri": "spotify:track:1sHcdZqH45OCEpZz0dsxzY",
+        "spotify.track_number": 13,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1sHcdZqH45OCEpZz0dsxzY",
+        "spotify.id": "1sHcdZqH45OCEpZz0dsxzY"
+    },
+    "artist - Orinoco flow": {
+        "artist": "Enya",
+        "title": "Orinoco Flow",
+        "album": "Watermark",
+        "release_date": "2005-05-17",
+        "spotify.uri": "spotify:track:2R0xKV3IEEDJ9B1hc9k4Zm",
+        "spotify.track_number": 16,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2R0xKV3IEEDJ9B1hc9k4Zm",
+        "spotify.id": "2R0xKV3IEEDJ9B1hc9k4Zm"
+    },
+    "miguel mateos - mi sombra en la pared": {
+        "artist": "Miguel Mateos",
+        "title": "Mi Sombra En La Pared",
+        "album": "Grandes Exitos",
+        "release_date": "2016-09-21",
+        "spotify.uri": "spotify:track:096vJncZZrwi4lLUoggD9y",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/096vJncZZrwi4lLUoggD9y",
+        "spotify.id": "096vJncZZrwi4lLUoggD9y"
+    },
+    "molotv - gime the power": {
+        "artist": "Molotov",
+        "title": "Gimme Tha Power",
+        "album": "Donde Jurgaran Las Ninas?",
+        "release_date": "1998-05-25",
+        "spotify.uri": "spotify:track:0wuRFAZfya3gwGw3c6567P",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0wuRFAZfya3gwGw3c6567P",
+        "spotify.id": "0wuRFAZfya3gwGw3c6567P"
+    },
+    "los toreros muertos - mi amigo manolito": {
+        "artist": "Los Toreros Muertos",
+        "title": "Manolito (Remasterizado)",
+        "album": "Canciones Irreverentes",
+        "release_date": "2019-06-14",
+        "spotify.uri": "spotify:track:5urKbQv3dzStI2jDBYxSjV",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5urKbQv3dzStI2jDBYxSjV",
+        "spotify.id": "5urKbQv3dzStI2jDBYxSjV"
+    },
+    "charlie garcia- nos siguen pegando abajo": {
+        "artist": "Charly Garcia",
+        "title": "Nos Siguen Pegando Abajo",
+        "album": "El Album",
+        "release_date": "2008-12-15",
+        "spotify.uri": "spotify:track:4VikOud5ZmdmHH6h7uQeDB",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4VikOud5ZmdmHH6h7uQeDB",
+        "spotify.id": "4VikOud5ZmdmHH6h7uQeDB"
+    },
+    "los amigos invisibles - cuatro": {
+        "artist": "Los Amigos Invisibles",
+        "title": "Ponerte En Cuatro",
+        "album": "The New Sound of the Venezuelan Gozadera",
+        "release_date": "2007-03-26",
+        "spotify.uri": "spotify:track:2EuTWDeSQMQ6N5FwOa97bI",
+        "spotify.track_number": 11,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2EuTWDeSQMQ6N5FwOa97bI",
+        "spotify.id": "2EuTWDeSQMQ6N5FwOa97bI"
+    },
+    "miguel mateos - es tan facil romper un corazon": {
+        "artist": "Miguel Mateos",
+        "title": "Es Tan Facil Romper Un Corazon",
+        "album": "Grandes Exitos",
+        "release_date": "2016-09-21",
+        "spotify.uri": "spotify:track:0n2IudFRHDBfn64pNFGShg",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0n2IudFRHDBfn64pNFGShg",
+        "spotify.id": "0n2IudFRHDBfn64pNFGShg"
+    },
+    "mago de oz - rata blanca": {
+        "artist": "Rata Blanca",
+        "title": "La Leyenda Del Hada y El Mago",
+        "album": "Magos, Espadas Y Rosas",
+        "release_date": "2004-01-01",
+        "spotify.uri": "spotify:track:7wuDJMcpXaIxRvJq7iG2bM",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7wuDJMcpXaIxRvJq7iG2bM",
+        "spotify.id": "7wuDJMcpXaIxRvJq7iG2bM"
+    },
+    "los fabulosos cadillacs - el matador": {
+        "artist": "Los Fabulosos Cadillacs",
+        "title": "El Matador",
+        "album": "Fabulosos Exitos",
+        "release_date": "2010-07-16",
+        "spotify.uri": "spotify:track:3EsjrObXPhXA79Cr4QixY8",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3EsjrObXPhXA79Cr4QixY8",
+        "spotify.id": "3EsjrObXPhXA79Cr4QixY8"
+    },
+    "Los Twist Pens que se trataba de cieguitos": {
+        "artist": "Los Twist",
+        "title": "Pense Que Se Trataba De Cieguitos",
+        "album": "Un viaje por los '90",
+        "release_date": "2020-07-17",
+        "spotify.uri": "spotify:track:0tqlIxBvRq6bfRDRr0nQzm",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0tqlIxBvRq6bfRDRr0nQzm",
+        "spotify.id": "0tqlIxBvRq6bfRDRr0nQzm"
+    },
+    "no dejes que": {
+        "artist": "Caifanes",
+        "title": "No Dejes Que...",
+        "album": "Recupera Tus Clasicos - Caifanes",
+        "release_date": "2011-03-21",
+        "spotify.uri": "spotify:track:5nzEilkVhvnCD0xpW3raTy",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5nzEilkVhvnCD0xpW3raTy",
+        "spotify.id": "5nzEilkVhvnCD0xpW3raTy"
+    },
+    "tributo a jose josemolotov-payaso": {
+        "artist": "Molotov",
+        "title": "Payaso",
+        "album": "Jose Jose, Un Tributo 1",
+        "release_date": "2014-03-25",
+        "spotify.uri": "spotify:track:7hzeu43gNUoHwh5CQrl3Jk",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7hzeu43gNUoHwh5CQrl3Jk",
+        "spotify.id": "7hzeu43gNUoHwh5CQrl3Jk"
+    },
+    "los fabulosos cadillacs - los caminos de la vida": {
+        "artist": "Vicentico",
+        "title": "Los Caminos De La Vida",
+        "album": "Los Rayos",
+        "release_date": "2004-09-28",
+        "spotify.uri": "spotify:track:5XpaePtfIP9brHF0JgPR4c",
+        "spotify.track_number": 11,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5XpaePtfIP9brHF0JgPR4c",
+        "spotify.id": "5XpaePtfIP9brHF0JgPR4c"
+    },
+    "Duncan Dhu En Algun Lugar con letra": {
+        "artist": "Duncan Dhu",
+        "title": "En algun lugar",
+        "album": "Las 100 Mejores Canciones de los 80",
+        "release_date": "2014-04-15",
+        "spotify.uri": "spotify:track:3UIENhLRdFIOuRan92cAQu",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3UIENhLRdFIOuRan92cAQu",
+        "spotify.id": "3UIENhLRdFIOuRan92cAQu"
+    },
+    "algo con tigo": {
+        "artist": "Vicentico",
+        "title": "Algo Contigo",
+        "album": "Vicentico",
+        "release_date": "2003-02-20",
+        "spotify.uri": "spotify:track:4zsDA31stWMtLveU61hejd",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4zsDA31stWMtLveU61hejd",
+        "spotify.id": "4zsDA31stWMtLveU61hejd"
+    },
+    "Kraken Vestido de Cristal (2)": {
+        "artist": "Kraken",
+        "title": "Vestido de Cristal",
+        "album": "I + I I",
+        "release_date": "2017-02-03",
+        "spotify.uri": "spotify:track:2ZihONVMMqAbEFpGHU9VdF",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2ZihONVMMqAbEFpGHU9VdF",
+        "spotify.id": "2ZihONVMMqAbEFpGHU9VdF"
+    },
+    "the sacados - mas de lo que te imaginas": {
+        "artist": "The Sacados",
+        "title": "Mas de Lo Que Te Imaginas",
+        "album": "Asunto Chino",
+        "release_date": "1994-12-17",
+        "spotify.uri": "spotify:track:62BPYDqcSo7l4mAp1FusfV",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/62BPYDqcSo7l4mAp1FusfV",
+        "spotify.id": "62BPYDqcSo7l4mAp1FusfV"
+    },
+    "los fabulosos cadillacs - la parte de adelante": {
+        "artist": "Los Fabulosos Cadillacs",
+        "title": "La Parte De Adelante",
+        "album": "Calamaro Querido!! Cantando Al Salmon",
+        "release_date": "2006-09-21",
+        "spotify.uri": "spotify:track:1eGNgTzF0YBoGN1BYNyvJJ",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1eGNgTzF0YBoGN1BYNyvJJ",
+        "spotify.id": "1eGNgTzF0YBoGN1BYNyvJJ"
+    },
+    "BAJO LA LUZ DE LA LUNA ( Los Rebeldes )": {
+        "artist": "Los Rebeldes",
+        "title": "Bajo La Luz De La Luna",
+        "album": "Mas Alla Del Bien Y Del Mal",
+        "release_date": "2014-04-07",
+        "spotify.uri": "spotify:track:2hfv8QRES8BwT49kO0Hhmd",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2hfv8QRES8BwT49kO0Hhmd",
+        "spotify.id": "2hfv8QRES8BwT49kO0Hhmd"
+    },
+    "la union & alejandro sanz - negrita": {
+        "artist": "La Union",
+        "title": "Negrita",
+        "album": "Coleccion Audiovisual 1984 - 2004",
+        "release_date": "2004-01-06",
+        "spotify.uri": "spotify:track:5xtrS1oKSvolhkmvocf6r9",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5xtrS1oKSvolhkmvocf6r9",
+        "spotify.id": "5xtrS1oKSvolhkmvocf6r9"
+    },
+    "bajo fondo tango club - perfume": {
+        "artist": "Campo",
+        "title": "Perfume",
+        "album": "Bajofondo Tango Club",
+        "release_date": "2007-10-11",
+        "spotify.uri": "spotify:track:0y9rtO1VdQoehWq2C90rUB",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0y9rtO1VdQoehWq2C90rUB",
+        "spotify.id": "0y9rtO1VdQoehWq2C90rUB"
+    },
+    "poligamia andres cepeda - mi generacion": {
+        "artist": "Poligamia",
+        "title": "Mi Generacion (Version Dura)",
+        "album": "Vueltas & Vueltas",
+        "release_date": "1995-12-01",
+        "spotify.uri": "spotify:track:7yXzwDfwMgL0pb4y78kaFI",
+        "spotify.track_number": 11,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7yXzwDfwMgL0pb4y78kaFI",
+        "spotify.id": "7yXzwDfwMgL0pb4y78kaFI"
+    },
+    "la union-ella es un volcan": {
+        "artist": "La Union",
+        "title": "Ella Es Un Volcan",
+        "album": "En Concierto (Tren De Largo Recorrido)",
+        "release_date": "1994-04-15",
+        "spotify.uri": "spotify:track:5T11KlNSuPUZ5RIegC1R0x",
+        "spotify.track_number": 13,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5T11KlNSuPUZ5RIegC1R0x",
+        "spotify.id": "5T11KlNSuPUZ5RIegC1R0x"
+    },
+    "Borracho hasta el amanecer - los coquillos": {
+        "artist": "Los Coquillos",
+        "title": "Borracho Hasta El Amanecer",
+        "album": "...Hasta El Amanecer",
+        "release_date": "2007-02-04",
+        "spotify.uri": "spotify:track:1DuD3zPGrNukA81i4eVmJ0",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1DuD3zPGrNukA81i4eVmJ0",
+        "spotify.id": "1DuD3zPGrNukA81i4eVmJ0"
+    },
+    "el ultimo de la fila - pajaros de barro": {
+        "artist": "Manolo Garcia",
+        "title": "Pajaros de Barro",
+        "album": "Arena En Los Bolsillos",
+        "release_date": "2014-11-14",
+        "spotify.uri": "spotify:track:3b0HuEjMPsGNfqbVstmxWD",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3b0HuEjMPsGNfqbVstmxWD",
+        "spotify.id": "3b0HuEjMPsGNfqbVstmxWD"
+    },
+    "Viceversa - Ella (Tu Piel Morena) (Album Version) (Album Version) myfreemp3.vip (2)": {
+        "artist": "Viceversa",
+        "title": "Ella (Tu Piel Morena)",
+        "album": "Lo Mejor De Viceversa",
+        "release_date": "2009-01-27",
+        "spotify.uri": "spotify:track:2DAeRk6J5C1Zu8iy32sUPf",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2DAeRk6J5C1Zu8iy32sUPf",
+        "spotify.id": "2DAeRk6J5C1Zu8iy32sUPf"
+    },
+    "molotov - rastra maldita": {
+        "artist": "Molotov",
+        "title": "Rastaman- Dita",
+        "album": "Himnos del rock en espanol",
+        "release_date": "2019-06-07",
+        "spotify.uri": "spotify:track:3uC2De3LAd7TvIeGs6oqNH",
+        "spotify.track_number": 31,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3uC2De3LAd7TvIeGs6oqNH",
+        "spotify.id": "3uC2De3LAd7TvIeGs6oqNH"
+    },
+    "vilma palma e vampiros - un camino hasta vos": {
+        "artist": "Vilma Palma e Vampiros",
+        "title": "Un cambio hasta vos",
+        "album": "Vilma Palma e Vampiros, grandes exitos",
+        "release_date": "2003-07-08",
+        "spotify.uri": "spotify:track:3RN74xfKuflcBgBrw0RrW6",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3RN74xfKuflcBgBrw0RrW6",
+        "spotify.id": "3RN74xfKuflcBgBrw0RrW6"
+    },
+    "ricardo arjona - lo nuestro y lo mejor - si el norte fuera el sur": {
+        "artist": "Ricardo Arjona",
+        "title": "Si el Norte Fuera el Sur (Album Version)",
+        "album": "Si El Norte Fuera El Sur",
+        "release_date": "1996-08-20",
+        "spotify.uri": "spotify:track:0RsJBwCYg9R1me7r8wLgvM",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0RsJBwCYg9R1me7r8wLgvM",
+        "spotify.id": "0RsJBwCYg9R1me7r8wLgvM"
+    },
+    "ricardo arjona - te conosco": {
+        "artist": "Ricardo Arjona",
+        "title": "Te Conozco",
+        "album": "Lo Esencial de Amor del Bueno, Vol. 4",
+        "release_date": "2013-03-12",
+        "spotify.uri": "spotify:track:0PmRXH4YFAtC6ipv8PsS0m",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0PmRXH4YFAtC6ipv8PsS0m",
+        "spotify.id": "0PmRXH4YFAtC6ipv8PsS0m"
+    },
+    "ricardo arjona - tu reputacion": {
+        "artist": "Ricardo Arjona",
+        "title": "Tu Reputacion",
+        "album": "Simplemente Lo Mejor",
+        "release_date": "2009-03-05",
+        "spotify.uri": "spotify:track:6kfEPOH3HJP1SxJnkLMpKV",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6kfEPOH3HJP1SxJnkLMpKV",
+        "spotify.id": "6kfEPOH3HJP1SxJnkLMpKV"
+    },
+    "ricardo_arjona-me_ensenaste": {
+        "artist": "Ricardo Arjona",
+        "title": "Me Ensenaste",
+        "album": "Si El Norte Fuera El Sur",
+        "release_date": "1996-08-20",
+        "spotify.uri": "spotify:track:7A9JOwFbFZtWSPulZCc0gB",
+        "spotify.track_number": 11,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7A9JOwFbFZtWSPulZCc0gB",
+        "spotify.id": "7A9JOwFbFZtWSPulZCc0gB"
+    },
+    "ricardo arjona - quien diria": {
+        "artist": "Ricardo Arjona",
+        "title": "Quien Diria",
+        "album": "Simplemente Lo Mejor",
+        "release_date": "2009-03-05",
+        "spotify.uri": "spotify:track:0zPmkE2lwjS5pP5e9XCD3Z",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0zPmkE2lwjS5pP5e9XCD3Z",
+        "spotify.id": "0zPmkE2lwjS5pP5e9XCD3Z"
+    },
+    "ricardo arjona - mujeres - mujeres": {
+        "artist": "Ricardo Arjona",
+        "title": "Mujeres",
+        "album": "Animal Nocturno",
+        "release_date": "1989-08-01",
+        "spotify.uri": "spotify:track:7wNrk2vc0GUUNBFggJzEsI",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7wNrk2vc0GUUNBFggJzEsI",
+        "spotify.id": "7wNrk2vc0GUUNBFggJzEsI"
+    },
+    "Un millon de anos luz": {
+        "artist": "Soda Stereo",
+        "title": "Un Millon De Anos Luz",
+        "album": "Me Veras Volver (Hits & Mas)",
+        "release_date": "2007-06-28",
+        "spotify.uri": "spotify:track:0nJrTGcXdJWkKz02UMQdzO",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0nJrTGcXdJWkKz02UMQdzO",
+        "spotify.id": "0nJrTGcXdJWkKz02UMQdzO"
+    },
+    "Pic nic en el cuarto": {
+        "artist": "Soda Stereo",
+        "title": "Pic Nic En El 4o B",
+        "album": "Rock Latino",
+        "release_date": "2012-06-26",
+        "spotify.uri": "spotify:track:751RK7AIbQnTjIyYTQcQO7",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/751RK7AIbQnTjIyYTQcQO7",
+        "spotify.id": "751RK7AIbQnTjIyYTQcQO7"
+    },
+    "angel electrico": {
+        "artist": "Soda Stereo",
+        "title": "Angel Electrico (MTV Unplugged)",
+        "album": "Comfort y Musica Para Volar",
+        "release_date": "2008-01-22",
+        "spotify.uri": "spotify:track:7H8TNV5Vc6poupuNxaE6KG",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7H8TNV5Vc6poupuNxaE6KG",
+        "spotify.id": "7H8TNV5Vc6poupuNxaE6KG"
+    },
+    "corazon delator": {
+        "artist": "Gustavo Cerati",
+        "title": "Corazon Delator",
+        "album": "11 Episodios Sinfonicos",
+        "release_date": "2001-08-04",
+        "spotify.uri": "spotify:track:0HyyrzoCvisMSNBVagUET1",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0HyyrzoCvisMSNBVagUET1",
+        "spotify.id": "0HyyrzoCvisMSNBVagUET1"
+    },
+    "un millon de aNos luz (sinfonico)": {
+        "artist": "Gustavo Cerati",
+        "title": "Un Millon de Anos Luz",
+        "album": "11 Episodios Sinfonicos",
+        "release_date": "2001-08-04",
+        "spotify.uri": "spotify:track:7kYr5AKpt4zGSZk02uu9t8",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7kYr5AKpt4zGSZk02uu9t8",
+        "spotify.id": "7kYr5AKpt4zGSZk02uu9t8"
+    },
+    "cerati persiana americana": {
+        "artist": "Gustavo Cerati",
+        "title": "Persiana Americana",
+        "album": "11 Episodios Sinfonicos",
+        "release_date": "2001-08-04",
+        "spotify.uri": "spotify:track:1agviLknzU91phkASKbOUS",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1agviLknzU91phkASKbOUS",
+        "spotify.id": "1agviLknzU91phkASKbOUS"
+    },
+    "Un hombre al agua": {
+        "artist": "Soda Stereo",
+        "title": "Hombre al Agua (Live)",
+        "album": "Rex-Mix",
+        "release_date": "2500-12-31",
+        "spotify.uri": "spotify:track:4AWdHMVMLcfg2kuCquvNWC",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4AWdHMVMLcfg2kuCquvNWC",
+        "spotify.id": "4AWdHMVMLcfg2kuCquvNWC"
+    },
+    "un misil en mi placar": {
+        "artist": "Soda Stereo",
+        "title": "Un Misil En Mi Placard",
+        "album": "Comfort Y Musica Para Volar",
+        "release_date": "1996-09-01",
+        "spotify.uri": "spotify:track:7IJC1qatyg2t8SZiwJRvID",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7IJC1qatyg2t8SZiwJRvID",
+        "spotify.id": "7IJC1qatyg2t8SZiwJRvID"
+    },
+    "Mundo de quimeras": {
+        "artist": "Soda Stereo",
+        "title": "Mundo De Quimeras (Remasterizado 2007)",
+        "album": "Languis",
+        "release_date": "1989-02-28",
+        "spotify.uri": "spotify:track:3JCz3RYG6psLPHrW5ZF1wg",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3JCz3RYG6psLPHrW5ZF1wg",
+        "spotify.id": "3JCz3RYG6psLPHrW5ZF1wg"
+    },
+    "soda stereo- zoom": {
+        "artist": "Soda Stereo",
+        "title": "Zoom (Remasterizado 2007)",
+        "album": "El Ultimo Concierto A",
+        "release_date": "1997-10-09",
+        "spotify.uri": "spotify:track:1hQ02BkTnR0BNs3SAznttM",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1hQ02BkTnR0BNs3SAznttM",
+        "spotify.id": "1hQ02BkTnR0BNs3SAznttM"
+    },
+    "Persiana Americana": {
+        "artist": "Soda Stereo",
+        "title": "Persiana Americana",
+        "album": "Este Es Tu Rock - Soda Stereo",
+        "release_date": "2017-01-18",
+        "spotify.uri": "spotify:track:4iPA2yB8bK7T770EkkOi7s",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4iPA2yB8bK7T770EkkOi7s",
+        "spotify.id": "4iPA2yB8bK7T770EkkOi7s"
+    },
+    "entre canibales": {
+        "artist": "Soda Stereo",
+        "title": "Entre Canibales (MTV Unplugged)",
+        "album": "Comfort y Musica Para Volar",
+        "release_date": "2008-01-22",
+        "spotify.uri": "spotify:track:060aWWmC9CrLqbhzHQifQf",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/060aWWmC9CrLqbhzHQifQf",
+        "spotify.id": "060aWWmC9CrLqbhzHQifQf"
+    },
+    "juan luis guerra - el niagara en bicicleta": {
+        "artist": "Juan Luis Guerra",
+        "title": "El Niagara en Bicicleta",
+        "album": "Archivo Digital 4.4",
+        "release_date": "2020-08-18",
+        "spotify.uri": "spotify:track:5H2oxn4OSjmn7krA5nLVQY",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5H2oxn4OSjmn7krA5nLVQY",
+        "spotify.id": "5H2oxn4OSjmn7krA5nLVQY"
+    },
+    "04 - quisiera": {
+        "artist": "Juan Luis Guerra",
+        "title": "Quisiera",
+        "album": "CD Bonus Tracks",
+        "release_date": "2020-08-18",
+        "spotify.uri": "spotify:track:6bVBoWc4lxKXRUsvm0R9oA",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6bVBoWc4lxKXRUsvm0R9oA",
+        "spotify.id": "6bVBoWc4lxKXRUsvm0R9oA"
+    },
+    "Juan Luis Guerra 'Bachata en Fukuoka' HD official Audio": {
+        "artist": "Juan Luis Guerra",
+        "title": "Bachata En Fukuoka",
+        "album": "Bachata En Fukuoka",
+        "release_date": "2010-03-16",
+        "spotify.uri": "spotify:track:6IfMD01z39P15HKezjdaMP",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6IfMD01z39P15HKezjdaMP",
+        "spotify.id": "6IfMD01z39P15HKezjdaMP"
+    },
+    "Michael Jackson Human Nature Lyrics": {
+        "artist": "Michael Jackson",
+        "title": "Human Nature",
+        "album": "Thriller 25 Super Deluxe Edition",
+        "release_date": "2008-02-08",
+        "spotify.uri": "spotify:track:4cgjA7B4fJBHyB9Ya2bu0t",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4cgjA7B4fJBHyB9Ya2bu0t",
+        "spotify.id": "4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    "smooth criminal": {
+        "artist": "Michael Jackson",
+        "title": "Smooth Criminal (Radio Edit)",
+        "album": "Michael Jackson: The Ultimate Collection",
+        "release_date": "2004-11-22",
+        "spotify.uri": "spotify:track:2GVYPY8Sv7U7cJkDFu3Ft1",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2GVYPY8Sv7U7cJkDFu3Ft1",
+        "spotify.id": "2GVYPY8Sv7U7cJkDFu3Ft1"
+    },
+    "you are not alone": {
+        "artist": "Michael Jackson",
+        "title": "You Are Not Alone",
+        "album": "HIStory: Past, Present and Future, Book I",
+        "release_date": "2007-11-13",
+        "spotify.uri": "spotify:track:3AoeaZs8dFemFJr3JdzOL0",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3AoeaZs8dFemFJr3JdzOL0",
+        "spotify.id": "3AoeaZs8dFemFJr3JdzOL0"
+    },
+    "man in the mirror": {
+        "artist": "Michael Jackson",
+        "title": "Man in the Mirror (2003 Edit)",
+        "album": "Number Ones",
+        "release_date": "2003-11-17",
+        "spotify.uri": "spotify:track:3mK75eGdaeLXxX7P1OzWLK",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3mK75eGdaeLXxX7P1OzWLK",
+        "spotify.id": "3mK75eGdaeLXxX7P1OzWLK"
+    },
+    "the way you make me feel": {
+        "artist": "Michael Jackson",
+        "title": "The Way You Make Me Feel (Single Version)",
+        "album": "Por Ellas 2018 (Cadena 100)",
+        "release_date": "2018-10-19",
+        "spotify.uri": "spotify:track:7KFThZQCAcj8JXdPRtdrXE",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7KFThZQCAcj8JXdPRtdrXE",
+        "spotify.id": "7KFThZQCAcj8JXdPRtdrXE"
+    },
+    "bad michael jackson": {
+        "artist": "Michael Jackson",
+        "title": "Bad",
+        "album": "Bad (Remastered)",
+        "release_date": "2012-09-14",
+        "spotify.uri": "spotify:track:5lWFrW5T3JtxVCLDb7etPu",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5lWFrW5T3JtxVCLDb7etPu",
+        "spotify.id": "5lWFrW5T3JtxVCLDb7etPu"
+    },
+    "black or white": {
+        "artist": "Michael Jackson",
+        "title": "Black or White (Single Version)",
+        "album": "TOP 40 HITDOSSIER - 90s",
+        "release_date": "2020-03-06",
+        "spotify.uri": "spotify:track:6wdviVWctiZnY6tVn6bh6A",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6wdviVWctiZnY6tVn6bh6A",
+        "spotify.id": "6wdviVWctiZnY6tVn6bh6A"
+    },
+    "I Just Can t Loving You": {
+        "artist": "Michael Jackson",
+        "title": "I Just Can't Stop Loving You (feat. Siedah Garrett)",
+        "album": "Love Songs",
+        "release_date": "2009-09-17",
+        "spotify.uri": "spotify:track:6irJnyu8YbJpVx2RfPz6GI",
+        "spotify.track_number": 29,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6irJnyu8YbJpVx2RfPz6GI",
+        "spotify.id": "6irJnyu8YbJpVx2RfPz6GI"
+    },
+    "don't stop til ya get enough": {
+        "artist": "Michael Jackson",
+        "title": "Don't Stop 'Til You Get Enough (Single Version)",
+        "album": "The Indispensable Collection",
+        "release_date": "2014-12-12",
+        "spotify.uri": "spotify:track:46eu3SBuFCXWsPT39Yg3tJ",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/46eu3SBuFCXWsPT39Yg3tJ",
+        "spotify.id": "46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    "Michael Jackson Rock With You (Official Audio)": {
+        "artist": "Michael Jackson",
+        "title": "Rock with You",
+        "album": "King Of Pop",
+        "release_date": "2008-08-22",
+        "spotify.uri": "spotify:track:7oOOI85fVQvVnK5ynNMdW7",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7oOOI85fVQvVnK5ynNMdW7",
+        "spotify.id": "7oOOI85fVQvVnK5ynNMdW7"
+    },
+    "thriller": {
+        "artist": "Giiggsii King Fayh",
+        "title": "Down for What Ever Beat",
+        "album": "The Moon Is",
+        "release_date": "2020-01-01",
+        "spotify.uri": "spotify:track:5Utmo5hT6um4qbGz24GaMP",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5Utmo5hT6um4qbGz24GaMP",
+        "spotify.id": "5Utmo5hT6um4qbGz24GaMP"
+    },
+    "billie jean": {
+        "artist": "Michael Jackson",
+        "title": "Billie Jean",
+        "album": "Michael Jackson Greatest Hits HIStory Volume I",
+        "release_date": "2001-11-13",
+        "spotify.uri": "spotify:track:6vR5u5b8JeRESx5nZaIWx6",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6vR5u5b8JeRESx5nZaIWx6",
+        "spotify.id": "6vR5u5b8JeRESx5nZaIWx6"
+    },
+    "Heat the world": {
+        "artist": "Michael Jackson",
+        "title": "Heal The World",
+        "album": "Michael Jackson Greatest Hits HIStory Volume I",
+        "release_date": "2001-11-13",
+        "spotify.uri": "spotify:track:7woW97CfcWaKtuC6W5BP2K",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7woW97CfcWaKtuC6W5BP2K",
+        "spotify.id": "7woW97CfcWaKtuC6W5BP2K"
+    },
+    "30 fantasy - Earth wind & fire": {
+        "artist": "Earth, Wind & Fire",
+        "title": "Fantasy",
+        "album": "70's Soul",
+        "release_date": "2008-07-28",
+        "spotify.uri": "spotify:track:1jfsQ3LP8OqiM65vi0Tkq4",
+        "spotify.track_number": 18,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1jfsQ3LP8OqiM65vi0Tkq4",
+        "spotify.id": "1jfsQ3LP8OqiM65vi0Tkq4"
+    },
+    "45 motley crue - kick start my heart": {
+        "artist": "Motley Crue",
+        "title": "Kickstart My Heart",
+        "album": "Take Me Home Tonight",
+        "release_date": "2011-01-01",
+        "spotify.uri": "spotify:track:4Yqy0GpeDEXLibWJCZyQew",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4Yqy0GpeDEXLibWJCZyQew",
+        "spotify.id": "4Yqy0GpeDEXLibWJCZyQew"
+    },
+    "If This is It Huey Lewis and The News (Lyrics)": {
+        "artist": "Huey Lewis & The News",
+        "title": "If This Is It",
+        "album": "Greatest Hits: Huey Lewis And The News",
+        "release_date": "2006-05-23",
+        "spotify.uri": "spotify:track:2h41e1ebabMfij3upGdymH",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2h41e1ebabMfij3upGdymH",
+        "spotify.id": "2h41e1ebabMfij3upGdymH"
+    },
+    "001 You Can39t Get What you Want (Till you know what you want) JOE JACKSON 391984": {
+        "artist": "Joe Jackson",
+        "title": "You Can't Get What You Want (Till You Know What You Want)",
+        "album": "Gold",
+        "release_date": "2008-01-01",
+        "spotify.uri": "spotify:track:1PRiwwG9wDMsqgtapWlu70",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1PRiwwG9wDMsqgtapWlu70",
+        "spotify.id": "1PRiwwG9wDMsqgtapWlu70"
+    },
+    "Phil Collins Easy Lover (2)": {
+        "artist": "Phil Collins",
+        "title": "Easy Lover",
+        "album": "Chinese Wall",
+        "release_date": "1985-05-05",
+        "spotify.uri": "spotify:track:5LYJ631w9ps5h9tdvac7yP",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5LYJ631w9ps5h9tdvac7yP",
+        "spotify.id": "5LYJ631w9ps5h9tdvac7yP"
+    },
+    "Jets You Got It All Lyrics": {
+        "artist": "The Jets",
+        "title": "You Got It All",
+        "album": "20th Century Masters: The Millennium Collection: Best Of The Jets",
+        "release_date": "2001-10-09",
+        "spotify.uri": "spotify:track:1ePdl4tZOfuE730uEWfyKU",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1ePdl4tZOfuE730uEWfyKU",
+        "spotify.id": "1ePdl4tZOfuE730uEWfyKU"
+    },
+    "Want To Want Me": {
+        "artist": "Jason DeRulo",
+        "title": "Want to Want Me",
+        "album": "Honey 3: Dare to Dance (Original Motion Picture Soundtrack)",
+        "release_date": "2015-03-09",
+        "spotify.uri": "spotify:track:7oGZAicScQt96OAW4AruYy",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7oGZAicScQt96OAW4AruYy",
+        "spotify.id": "7oGZAicScQt96OAW4AruYy"
+    },
+    "22 Because You Loved Me - Celine dion": {
+        "artist": "Celine Dion",
+        "title": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+        "album": "The Very Best of Celine Dion",
+        "release_date": "2019-01-18",
+        "spotify.uri": "spotify:track:7ESPq8MGBjtlbLKxoeDMUR",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7ESPq8MGBjtlbLKxoeDMUR",
+        "spotify.id": "7ESPq8MGBjtlbLKxoeDMUR"
+    },
+    "Madonna Crazy For You (Official Audio)": {
+        "artist": "Madonna",
+        "title": "Crazy For You",
+        "album": "Something To Remember",
+        "release_date": "1995-11-07",
+        "spotify.uri": "spotify:track:6iABG3ruJ1ArrulilbVhai",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6iABG3ruJ1ArrulilbVhai",
+        "spotify.id": "6iABG3ruJ1ArrulilbVhai"
+    },
+    "Mariah Carey Without You": {
+        "artist": "Mariah Carey",
+        "title": "Without You",
+        "album": "Greatest Hits",
+        "release_date": "2001-11-12",
+        "spotify.uri": "spotify:track:0pkIJFV6mviH9dmBYsFwTM",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0pkIJFV6mviH9dmBYsFwTM",
+        "spotify.id": "0pkIJFV6mviH9dmBYsFwTM"
+    },
+    "03 the new radicals- the new get wats the give": {
+        "artist": "New Radicals",
+        "title": "You Get What You Give",
+        "album": "Guilty Pleasures",
+        "release_date": "2007-01-01",
+        "spotify.uri": "spotify:track:1Cwsd5xI8CajJz795oy4XF",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1Cwsd5xI8CajJz795oy4XF",
+        "spotify.id": "1Cwsd5xI8CajJz795oy4XF"
+    },
+    "Sting - Desert Rose (Melodic Club Mix Radio Edit) (Melodic Club Mix Radio Edit) myfreemp3.vip (2)": {
+        "artist": "Sting",
+        "title": "Desert Rose",
+        "album": "Still Be Love In The World",
+        "release_date": "2007-06-28",
+        "spotify.uri": "spotify:track:1XEm78unPhPYaaXJs6FYrv",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1XEm78unPhPYaaXJs6FYrv",
+        "spotify.id": "1XEm78unPhPYaaXJs6FYrv"
+    },
+    "49paula abdul - opposites attract": {
+        "artist": "Paula Abdul",
+        "title": "Opposites Attract",
+        "album": "Playlist: Dance",
+        "release_date": "2008-04-28",
+        "spotify.uri": "spotify:track:7z38bideBRvGAgjXe2SECm",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7z38bideBRvGAgjXe2SECm",
+        "spotify.id": "7z38bideBRvGAgjXe2SECm"
+    },
+    "Jane Child - Don't Wanna Fall in Love myfreemp3.vip": {
+        "artist": "Jane Child",
+        "title": "Don't Wanna Fall In Love",
+        "album": "Jane Child (US Release)",
+        "release_date": "2004-12-28",
+        "spotify.uri": "spotify:track:6eozUVzr02EXMji1vuxgiP",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6eozUVzr02EXMji1vuxgiP",
+        "spotify.id": "6eozUVzr02EXMji1vuxgiP"
+    },
+    "Madonna 'Celebration' (OFFICIAL)": {
+        "artist": "Madonna",
+        "title": "Celebration",
+        "album": "Celebration",
+        "release_date": "2009-09-18",
+        "spotify.uri": "spotify:track:5HktkLHDbjA6LTyRTBEzHy",
+        "spotify.track_number": 36,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5HktkLHDbjA6LTyRTBEzHy",
+        "spotify.id": "5HktkLHDbjA6LTyRTBEzHy"
+    },
+    "Belive If Or Not": {
+        "artist": "Joey Scarbury",
+        "title": "Theme From \"Greatest American Hero\" (Believe It Or Not)",
+        "album": "America's Greatest Hero (US Release)",
+        "release_date": "2005-02-08",
+        "spotify.uri": "spotify:track:375ntCG12wzCyfzclwYFwG",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/375ntCG12wzCyfzclwYFwG",
+        "spotify.id": "375ntCG12wzCyfzclwYFwG"
+    },
+    "35 HYSTERIA": {
+        "artist": "Def Leppard",
+        "title": "Hysteria",
+        "album": "Best Of",
+        "release_date": "2004-10-25",
+        "spotify.uri": "spotify:track:2PFIZFcGry0po3ZfRZkzKc",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2PFIZFcGry0po3ZfRZkzKc",
+        "spotify.id": "2PFIZFcGry0po3ZfRZkzKc"
+    },
+    "47 NOTHING ELSE MATTERS": {
+        "artist": "Metallica",
+        "title": "NOTHING ELSE MATTERS",
+        "album": "Metallica",
+        "release_date": "1991-08-12",
+        "spotify.uri": "spotify:track:0nLiqZ6A27jJri2VCalIUs",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0nLiqZ6A27jJri2VCalIUs",
+        "spotify.id": "0nLiqZ6A27jJri2VCalIUs"
+    },
+    "73 Sting Russians": {
+        "artist": "Sting",
+        "title": "Russians",
+        "album": "Fields Of Gold - The Best Of Sting 1984 - 1994",
+        "release_date": "1994-01-01",
+        "spotify.uri": "spotify:track:0MBYW7CcBJmsY3HTP05VQg",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0MBYW7CcBJmsY3HTP05VQg",
+        "spotify.id": "0MBYW7CcBJmsY3HTP05VQg"
+    },
+    "Tears For Fears Sowing The Seeds Of Love": {
+        "artist": "Tears for Fears",
+        "title": "Sowing The Seeds Of Love",
+        "album": "Top of the Pops 2 Vol. 1",
+        "release_date": "2000-03-26",
+        "spotify.uri": "spotify:track:4K8rYFkLF3RxDOLr2JTPYH",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4K8rYFkLF3RxDOLr2JTPYH",
+        "spotify.id": "4K8rYFkLF3RxDOLr2JTPYH"
+    },
+    "07 everybody wants to rule the world": {
+        "artist": "Tears For Fears",
+        "title": "Everybody Wants To Rule The World",
+        "album": "True 80s 3 CD SET",
+        "release_date": "2006-01-01",
+        "spotify.uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4RvWPyQ5RL0ao9LPZeSouE",
+        "spotify.id": "4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    "63 van halen - why can't this be love": {
+        "artist": "Van Halen",
+        "title": "Why Can't This Be Love",
+        "album": "5150",
+        "release_date": "1986-03-24",
+        "spotify.uri": "spotify:track:0TaT50ZZxT4ytZxuqkE3A9",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0TaT50ZZxT4ytZxuqkE3A9",
+        "spotify.id": "0TaT50ZZxT4ytZxuqkE3A9"
+    },
+    "Will To Power Baby I Love Your Way (2)": {
+        "artist": "Will To Power",
+        "title": "Baby, I Love Your Way / Freebird",
+        "album": "Essential - 80's Love",
+        "release_date": "2010-01-25",
+        "spotify.uri": "spotify:track:0oWE6DnmdfnZSiNKmMmpJl",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0oWE6DnmdfnZSiNKmMmpJl",
+        "spotify.id": "0oWE6DnmdfnZSiNKmMmpJl"
+    },
+    "24 BUT A GOOD TIME": {
+        "artist": "Poison",
+        "title": "Nothin' But A Good Time",
+        "album": "The Best Of- 20 Years Of Rock",
+        "release_date": "2006-04-04",
+        "spotify.uri": "spotify:track:2V8KvnD5LVeeDChMWEkSzC",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2V8KvnD5LVeeDChMWEkSzC",
+        "spotify.id": "2V8KvnD5LVeeDChMWEkSzC"
+    },
+    "48 ozzy osborne - mama im coming home": {
+        "artist": "Ozzy Osbourne",
+        "title": "Mama Im Coming Home",
+        "album": "Best Ballads",
+        "release_date": "1999-01-01",
+        "spotify.uri": "spotify:track:0S3gpZzlT9Hb7CCSV2owX7",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0S3gpZzlT9Hb7CCSV2owX7",
+        "spotify.id": "0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    "65 WHEREVER I WAY ROAM": {
+        "artist": "Metallica",
+        "title": "Wherever I May Roam",
+        "album": "Metallica",
+        "release_date": "1991-08-12",
+        "spotify.uri": "spotify:track:22GbAGb80ZZNgm2yrBMnpR",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/22GbAGb80ZZNgm2yrBMnpR",
+        "spotify.id": "22GbAGb80ZZNgm2yrBMnpR"
+    },
+    "New Kids On The Block I'll Be Loving You (Forever)": {
+        "artist": "New Kids on the Block",
+        "title": "I'll Be Loving You (Forever)",
+        "album": "Super Hits",
+        "release_date": "2001-03-26",
+        "spotify.uri": "spotify:track:1cy5US2dffz6QGBAIzOGkq",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1cy5US2dffz6QGBAIzOGkq",
+        "spotify.id": "1cy5US2dffz6QGBAIzOGkq"
+    },
+    "10 george michael - flawless": {
+        "artist": "George Michael",
+        "title": "Flawless (Go to the City)",
+        "album": "Patience",
+        "release_date": "2001-01-01",
+        "spotify.uri": "spotify:track:6HwgNXpldZ0WfY4kzJgexr",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6HwgNXpldZ0WfY4kzJgexr",
+        "spotify.id": "6HwgNXpldZ0WfY4kzJgexr"
+    },
+    "37 IT'S A SIN.MP3": {
+        "artist": "Pet Shop Boys",
+        "title": "It's a Sin (2001 Remaster)",
+        "album": "Actually",
+        "release_date": "2001-06-04",
+        "spotify.uri": "spotify:track:2ANfFl01KS0tySGYgSedUQ",
+        "spotify.track_number": 11,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2ANfFl01KS0tySGYgSedUQ",
+        "spotify.id": "2ANfFl01KS0tySGYgSedUQ"
+    },
+    "62 UPTOWN GIRL.MP3": {
+        "artist": "Billy Joel",
+        "title": "Uptown Girl",
+        "album": "Piano Man: The Very Best of Billy Joel",
+        "release_date": "2006-04-03",
+        "spotify.uri": "spotify:track:5zA8vzDGqPl2AzZkEYQGKh",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5zA8vzDGqPl2AzZkEYQGKh",
+        "spotify.id": "5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    "Alien Ant Farm Smooth Criminal": {
+        "artist": "Alien Ant Farm",
+        "title": "Smooth Criminal",
+        "album": "Nu Rock",
+        "release_date": "2007-01-01",
+        "spotify.uri": "spotify:track:5z6xHjCZr7a7AIcy8sPBKy",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5z6xHjCZr7a7AIcy8sPBKy",
+        "spotify.id": "5z6xHjCZr7a7AIcy8sPBKy"
+    },
+    "69 No Doubt Hey Baby": {
+        "artist": "No Doubt",
+        "title": "Hey Baby",
+        "album": "The Singles Collection",
+        "release_date": "2003-01-01",
+        "spotify.uri": "spotify:track:2QsoVMTKj5m5kgztTOep98",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2QsoVMTKj5m5kgztTOep98",
+        "spotify.id": "2QsoVMTKj5m5kgztTOep98"
+    },
+    "43 LOVE BITES": {
+        "artist": "Def Leppard",
+        "title": "Love Bites",
+        "album": "Best Of",
+        "release_date": "2004-10-25",
+        "spotify.uri": "spotify:track:4qWizh4UB8BuSypZ3T1zAz",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4qWizh4UB8BuSypZ3T1zAz",
+        "spotify.id": "4qWizh4UB8BuSypZ3T1zAz"
+    },
+    "New Order Blue Monday 88 [OFFICIAL MUSIC VIDEO]": {
+        "artist": "New Order",
+        "title": "True Faith",
+        "album": "KCC's Awesome Hits",
+        "release_date": "2012-08-21",
+        "spotify.uri": "spotify:track:4fpxnJGDWFxjGvLJOqPPt8",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4fpxnJGDWFxjGvLJOqPPt8",
+        "spotify.id": "4fpxnJGDWFxjGvLJOqPPt8"
+    },
+    "72 Sting Englishman In New York": {
+        "artist": "Sting",
+        "title": "Englishman In New York",
+        "album": "Nothing Like The Sun",
+        "release_date": "1987-01-01",
+        "spotify.uri": "spotify:track:4KFM3A5QF2IMcc6nHsu3Wp",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4KFM3A5QF2IMcc6nHsu3Wp",
+        "spotify.id": "4KFM3A5QF2IMcc6nHsu3Wp"
+    },
+    "John Parr - St. Elmos Fire (Man in Motion) myfreemp3.vip (2)": {
+        "artist": "John Parr",
+        "title": "St. Elmos Fire (Man In Motion)",
+        "album": "St. Elmo's Fire - Music From The Original Motion Picture Soundtrack",
+        "release_date": "1985-01-01",
+        "spotify.uri": "spotify:track:1A2PWRltFrX8iB8IP3CUgo",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1A2PWRltFrX8iB8IP3CUgo",
+        "spotify.id": "1A2PWRltFrX8iB8IP3CUgo"
+    },
+    "Wham! Last Christmas": {
+        "artist": "Wham!",
+        "title": "Last Christmas",
+        "album": "538 Hitzone Christmas",
+        "release_date": "2013-11-15",
+        "spotify.uri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2FRnf9qhLbvw8fu4IBXx78",
+        "spotify.id": "2FRnf9qhLbvw8fu4IBXx78"
+    },
+    "14 NOTHING GONNA STOP US NOW.MP3": {
+        "artist": "Starship",
+        "title": "Nothing's Gonna Stop Us Now",
+        "album": "Fetenkult - Best Of The 80's",
+        "release_date": "2005-02-14",
+        "spotify.uri": "spotify:track:3X7uFMzJrEE0sxn62qd8Ch",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3X7uFMzJrEE0sxn62qd8Ch",
+        "spotify.id": "3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    "09 Debbie Gibson Lost in your eyes": {
+        "artist": "Debbie Gibson",
+        "title": "Lost In Your Eyes",
+        "album": "All for Love: Finest Ballads",
+        "release_date": "2019-06-21",
+        "spotify.uri": "spotify:track:6PMDILZiYo4YzMBbE0dGK9",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6PMDILZiYo4YzMBbE0dGK9",
+        "spotify.id": "6PMDILZiYo4YzMBbE0dGK9"
+    },
+    "39JANNIES": {
+        "artist": "Aerosmith",
+        "title": "Janie's Got A Gun",
+        "album": "Big Ones",
+        "release_date": "1994-01-01",
+        "spotify.uri": "spotify:track:5fMwvrqujbQjUxcNPcYrUF",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5fMwvrqujbQjUxcNPcYrUF",
+        "spotify.id": "5fMwvrqujbQjUxcNPcYrUF"
+    },
+    "02 taylor dayne - love will lead you back": {
+        "artist": "Taylor Dayne",
+        "title": "Love Will Lead You Back",
+        "album": "Arista Heritage Series: Taylor Dayne",
+        "release_date": "1999-07-27",
+        "spotify.uri": "spotify:track:1bv5NvM7bfagEOYfqx0prK",
+        "spotify.track_number": 14,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1bv5NvM7bfagEOYfqx0prK",
+        "spotify.id": "1bv5NvM7bfagEOYfqx0prK"
+    },
+    "42 Lady in red - Chris De Burgh": {
+        "artist": "Chris de Burgh",
+        "title": "The Lady In Red",
+        "album": "Into The Light",
+        "release_date": "1986-01-01",
+        "spotify.uri": "spotify:track:5Hcl1reJnHIfJBbCcglaKR",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5Hcl1reJnHIfJBbCcglaKR",
+        "spotify.id": "5Hcl1reJnHIfJBbCcglaKR"
+    },
+    "28 ENTER SANDMAN": {
+        "artist": "Metallica",
+        "title": "ENTER SANDMAN",
+        "album": "Metallica",
+        "release_date": "1991-08-12",
+        "spotify.uri": "spotify:track:5sICkBXVmaCQk5aISGR3x1",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5sICkBXVmaCQk5aISGR3x1",
+        "spotify.id": "5sICkBXVmaCQk5aISGR3x1"
+    },
+    "06 rolling stones - anybody seen my baby": {
+        "artist": "The Rolling Stones",
+        "title": "Anybody Seen My Baby?",
+        "album": "Bridges To Babylon",
+        "release_date": "2009-01-01",
+        "spotify.uri": "spotify:track:4tXr9v3K7nWW1aebWqR1B7",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4tXr9v3K7nWW1aebWqR1B7",
+        "spotify.id": "4tXr9v3K7nWW1aebWqR1B7"
+    },
+    "74 Toto Africa": {
+        "artist": "Toto",
+        "title": "Africa",
+        "album": "The Definitive 80's (eighties)",
+        "release_date": "2007-12-10",
+        "spotify.uri": "spotify:track:2auYlDfJOcsMbwvzkcLaM4",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2auYlDfJOcsMbwvzkcLaM4",
+        "spotify.id": "2auYlDfJOcsMbwvzkcLaM4"
+    },
+    "Simply Red If You Don't Know Me By Now[1]": {
+        "artist": "Simply Red",
+        "title": "If You Don't Know Me by Now - 2008 Remaster",
+        "album": "A New Flame (Expanded Version)",
+        "release_date": null,
+        "spotify.uri": "spotify:track:7DFawVSjI88xR9mjnWwURg",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7DFawVSjI88xR9mjnWwURg",
+        "spotify.id": "7DFawVSjI88xR9mjnWwURg"
+    },
+    "TOP GUN ANTHEM": {
+        "artist": "Harold Faltermeyer",
+        "title": "Top Gun Anthem (From \"Top Gun\" Original Soundtrack)",
+        "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "release_date": "1999-01-01",
+        "spotify.uri": "spotify:track:00Y9r5SfbDdEjJhNg7laQr",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/00Y9r5SfbDdEjJhNg7laQr",
+        "spotify.id": "00Y9r5SfbDdEjJhNg7laQr"
+    },
+    "Journey Open Arms": {
+        "artist": "Journey",
+        "title": "Open Arms",
+        "album": "Greatest Hits",
+        "release_date": "1988-11-15",
+        "spotify.uri": "spotify:track:7xSodlywi4UVAR2HwjA4yX",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7xSodlywi4UVAR2HwjA4yX",
+        "spotify.id": "7xSodlywi4UVAR2HwjA4yX"
+    },
+    "57 tecnotronic - get up": {
+        "artist": "Technotronic",
+        "title": "Get Up (Before The Night Is Over)",
+        "album": "Best Of",
+        "release_date": "2011-01-01",
+        "spotify.uri": "spotify:track:2YZS3IFMnlqzckxwErBBeU",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2YZS3IFMnlqzckxwErBBeU",
+        "spotify.id": "2YZS3IFMnlqzckxwErBBeU"
+    },
+    "66 YOU COULD BE MINE.MP3": {
+        "artist": "Guns N' Roses",
+        "title": "You Could Be Mine",
+        "album": "Use Your Illusion II",
+        "release_date": "1991-01-01",
+        "spotify.uri": "spotify:track:0dlTGl67UFWcKupzkxZYOn",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0dlTGl67UFWcKupzkxZYOn",
+        "spotify.id": "0dlTGl67UFWcKupzkxZYOn"
+    },
+    "59 whit out you": {
+        "artist": "Motley Crue",
+        "title": "Without You",
+        "album": "Dr. Feelgood",
+        "release_date": "2009-05-25",
+        "spotify.uri": "spotify:track:4HcBshqrvH5tD8Cz3xkmKl",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4HcBshqrvH5tD8Cz3xkmKl",
+        "spotify.id": "4HcBshqrvH5tD8Cz3xkmKl"
+    },
+    "REO Speedwagon Take It On The Run lyrics": {
+        "artist": "REO Speedwagon",
+        "title": "Take It on the Run",
+        "album": "The Hits",
+        "release_date": "2002-04-30",
+        "spotify.uri": "spotify:track:3KNpBcOQVI92y1D7XvN7j9",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3KNpBcOQVI92y1D7XvN7j9",
+        "spotify.id": "3KNpBcOQVI92y1D7XvN7j9"
+    },
+    "29 EVERY BREATH YOU TAKE.MP3": {
+        "artist": "The Police",
+        "title": "Every Breath You Take",
+        "album": "The Police",
+        "release_date": "2007-01-01",
+        "spotify.uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1JSTJqkT5qHq8MDJnJbRE1",
+        "spotify.id": "1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    "Pharrell Williams Happy (Official Music Audio)": {
+        "artist": "Pharrell Williams",
+        "title": "Happy",
+        "album": "Happy",
+        "release_date": "2013-12-16",
+        "spotify.uri": "spotify:track:60nZcImufyMA1MKQY3dcCH",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/60nZcImufyMA1MKQY3dcCH",
+        "spotify.id": "60nZcImufyMA1MKQY3dcCH"
+    },
+    "64 we are the champions": {
+        "artist": "Queen",
+        "title": "We Are The Champions",
+        "album": "Ballermann Hits - Fussball Party",
+        "release_date": "2008-05-24",
+        "spotify.uri": "spotify:track:33Hfe4rjHjNMYhFl8tWWuy",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/33Hfe4rjHjNMYhFl8tWWuy",
+        "spotify.id": "33Hfe4rjHjNMYhFl8tWWuy"
+    },
+    "stereo mcs connected": {
+        "artist": "Stereo MC's",
+        "title": "Connected",
+        "album": "Fama Classic",
+        "release_date": "2008-01-01",
+        "spotify.uri": "spotify:track:1ZoE2naC9ySlPLdBZhS1rM",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1ZoE2naC9ySlPLdBZhS1rM",
+        "spotify.id": "1ZoE2naC9ySlPLdBZhS1rM"
+    },
+    "Gloria Estefan 1 2 3 (Official Audio)": {
+        "artist": "Gloria Estefan",
+        "title": "1,2,3",
+        "album": "Greatest Hits",
+        "release_date": "2011-02-04",
+        "spotify.uri": "spotify:track:1ovIbIRHnG8oi4aUnh2i5d",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1ovIbIRHnG8oi4aUnh2i5d",
+        "spotify.id": "1ovIbIRHnG8oi4aUnh2i5d"
+    },
+    "Aerosmith Angel": {
+        "artist": "Aerosmith",
+        "title": "Angel",
+        "album": "Big Ones",
+        "release_date": "1994-01-01",
+        "spotify.uri": "spotify:track:3kfXUGIdBNpyr2gBvU3Guj",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3kfXUGIdBNpyr2gBvU3Guj",
+        "spotify.id": "3kfXUGIdBNpyr2gBvU3Guj"
+    },
+    "60 TWO HEARTS.MP3": {
+        "artist": "Phil Collins",
+        "title": "Two Hearts",
+        "album": "...Hits",
+        "release_date": "1998-09-25",
+        "spotify.uri": "spotify:track:2BgWv15eKCDfiubKo6o76k",
+        "spotify.track_number": 20,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2BgWv15eKCDfiubKo6o76k",
+        "spotify.id": "2BgWv15eKCDfiubKo6o76k"
+    },
+    "20 Was Not Was Shake Your Head": {
+        "artist": "Was ",
+        "title": "Shake Your Head (Let's Go To Bed)",
+        "album": "Ladies Night",
+        "release_date": "2004-01-01",
+        "spotify.uri": "spotify:track:0Y0QAHtYYf2VdZEzrj00Yv",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0Y0QAHtYYf2VdZEzrj00Yv",
+        "spotify.id": "0Y0QAHtYYf2VdZEzrj00Yv"
+    },
+    "Alanis Morissette You Oughta Know (Video)": {
+        "artist": "Alanis Morissette",
+        "title": "You Oughta Know",
+        "album": "Jagged Little Pill",
+        "release_date": "1995-06-09",
+        "spotify.uri": "spotify:track:46PyZsZGGhe1DcTid97GTq",
+        "spotify.track_number": 13,
+        "spotify.href": "https://api.spotify.com/v1/tracks/46PyZsZGGhe1DcTid97GTq",
+        "spotify.id": "46PyZsZGGhe1DcTid97GTq"
+    },
+    "Forever by Kenny Loggins (2)": {
+        "artist": "Kenny Loggins",
+        "title": "Forever",
+        "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "release_date": "1997-03-25",
+        "spotify.uri": "spotify:track:78dUzv1Vq50LP8zrLKvH7o",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/78dUzv1Vq50LP8zrLKvH7o",
+        "spotify.id": "78dUzv1Vq50LP8zrLKvH7o"
+    },
+    "Tears For Fears Shout Songs": {
+        "artist": "Tears For Fears",
+        "title": "Shout",
+        "album": "Jora Road Hits",
+        "release_date": "2004-11-10",
+        "spotify.uri": "spotify:track:2gQaQUhDCNGfBVXTvxAmXQ",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2gQaQUhDCNGfBVXTvxAmXQ",
+        "spotify.id": "2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    "19 ub40 - cant help falling in love with you": {
+        "artist": "UB40",
+        "title": "(I Can't Help) Falling in Love With You",
+        "album": "The Very Best Of UB40",
+        "release_date": "2003-03-01",
+        "spotify.uri": "spotify:track:7ojJ4XvqBhBcteM0zjMebT",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7ojJ4XvqBhBcteM0zjMebT",
+        "spotify.id": "7ojJ4XvqBhBcteM0zjMebT"
+    },
+    "34 Human League - Human": {
+        "artist": "The Human League",
+        "title": "Human",
+        "album": "Now! That'S What I Call 80'S",
+        "release_date": "2012-07-24",
+        "spotify.uri": "spotify:track:1JQnfjrA01XFf6MVNMkQu2",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1JQnfjrA01XFf6MVNMkQu2",
+        "spotify.id": "1JQnfjrA01XFf6MVNMkQu2"
+    },
+    "16 suburvia": {
+        "artist": "Pet Shop Boys",
+        "title": "Suburbia(2010 Remastered Version)",
+        "album": "Ultimate",
+        "release_date": "2010-11-01",
+        "spotify.uri": "spotify:track:0TuX3aEbteTIX5QH93AbfY",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0TuX3aEbteTIX5QH93AbfY",
+        "spotify.id": "0TuX3aEbteTIX5QH93AbfY"
+    },
+    "54 SOMETHING TO BELIVE IN SONUS TRACKS": {
+        "artist": "Poison",
+        "title": "Something to Believe In",
+        "album": "Best Of Ballads And Blues",
+        "release_date": "2003-07-24",
+        "spotify.uri": "spotify:track:7pUYjnFTXMs0mFWsE9epqV",
+        "spotify.track_number": 11,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7pUYjnFTXMs0mFWsE9epqV",
+        "spotify.id": "7pUYjnFTXMs0mFWsE9epqV"
+    },
+    "71 Stacey Q 'Two of Hearts'": {
+        "artist": "Stacey Q",
+        "title": "Two Of Hearts",
+        "album": "Rhino Hi-Five: '80s Pop",
+        "release_date": "2006-04-18",
+        "spotify.uri": "spotify:track:2dURQIBrw3XcHyVZlfdpC1",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2dURQIBrw3XcHyVZlfdpC1",
+        "spotify.id": "2dURQIBrw3XcHyVZlfdpC1"
+    },
+    "Journey - Don't Stop Believin' (Audio)": {
+        "artist": "Journey",
+        "title": "Don't Stop Believin'",
+        "album": "Greatest Hits",
+        "release_date": "2006-07-31",
+        "spotify.uri": "spotify:track:5ehcf6UL1TkwozB386cRAp",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5ehcf6UL1TkwozB386cRAp",
+        "spotify.id": "5ehcf6UL1TkwozB386cRAp"
+    },
+    "Belinda Carlisle I Get Weak": {
+        "artist": "Belinda Carlisle",
+        "title": "I Get Weak",
+        "album": "Pure Driving Rock",
+        "release_date": "2008-06-16",
+        "spotify.uri": "spotify:track:6iIhbRMYvrRN7F3Du7ZS2n",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6iIhbRMYvrRN7F3Du7ZS2n",
+        "spotify.id": "6iIhbRMYvrRN7F3Du7ZS2n"
+    },
+    "17 can t figth this feeling": {
+        "artist": "REO Speedwagon",
+        "title": "Can't Fight This Feeling",
+        "album": "Love Songs",
+        "release_date": "2009-01-29",
+        "spotify.uri": "spotify:track:2aDjAZ6n0URVbxJ42Fwf5s",
+        "spotify.track_number": 84,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2aDjAZ6n0URVbxJ42Fwf5s",
+        "spotify.id": "2aDjAZ6n0URVbxJ42Fwf5s"
+    },
+    "Rick Astley Never Gonna Give You Up (Audio)": {
+        "artist": "Rick Astley",
+        "title": "Never Gonna Give You Up",
+        "album": "Baladas En Ingles 2020",
+        "release_date": "2020-01-23",
+        "spotify.uri": "spotify:track:4PTG3Z6ehGkBFwjybzWkR8",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4PTG3Z6ehGkBFwjybzWkR8",
+        "spotify.id": "4PTG3Z6ehGkBFwjybzWkR8"
+    },
+    "31 HOLD ME NOW.MP3": {
+        "artist": "Thompson Twins",
+        "title": "Hold Me Now",
+        "album": "100 Movie Hits",
+        "release_date": "2010-02-22",
+        "spotify.uri": "spotify:track:1gkHEty38NqItWsuVEJHTp",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1gkHEty38NqItWsuVEJHTp",
+        "spotify.id": "1gkHEty38NqItWsuVEJHTp"
+    },
+    "18 Bon Jovi I'll Be There For You": {
+        "artist": "Bon Jovi",
+        "title": "I'll Be There For You",
+        "album": "Greatest Hits: The Ultimate Collection",
+        "release_date": "1994-10-14",
+        "spotify.uri": "spotify:track:07HqIg8BnB1lJElnw2ZiSR",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/07HqIg8BnB1lJElnw2ZiSR",
+        "spotify.id": "07HqIg8BnB1lJElnw2ZiSR"
+    },
+    "15 september-eart wind and fire": {
+        "artist": "Earth, Wind & Fire",
+        "title": "September",
+        "album": "Ultimate Earth Wind & Fire",
+        "release_date": "2008-03-31",
+        "spotify.uri": "spotify:track:3kXoKlD84c6OmIcOLfrfEs",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3kXoKlD84c6OmIcOLfrfEs",
+        "spotify.id": "3kXoKlD84c6OmIcOLfrfEs"
+    },
+    "70 Patrick Swayze She's Like The Wind": {
+        "artist": "Patrick Swayze",
+        "title": "She's Like the Wind",
+        "album": "Dirty Dancing",
+        "release_date": "1987-07-10",
+        "spotify.uri": "spotify:track:7BdXRaSlGAzhySfuW3y8h5",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7BdXRaSlGAzhySfuW3y8h5",
+        "spotify.id": "7BdXRaSlGAzhySfuW3y8h5"
+    },
+    "25 Can't get enough of your love babe - Barry White": {
+        "artist": "Barry White",
+        "title": "Can't Get Enough Of Your Love, Babe",
+        "album": "Disco Nights",
+        "release_date": "2001-01-01",
+        "spotify.uri": "spotify:track:3mWpUEBYnv9SIFWfixSJFx",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3mWpUEBYnv9SIFWfixSJFx",
+        "spotify.id": "3mWpUEBYnv9SIFWfixSJFx"
+    },
+    "51 robbie williams - rock dj": {
+        "artist": "Robbie Williams",
+        "title": "Rock DJ",
+        "album": "Sing When You're Winning",
+        "release_date": "2010-10-08",
+        "spotify.uri": "spotify:track:0lJEYLAJU5KtthQroas2ou",
+        "spotify.track_number": 27,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0lJEYLAJU5KtthQroas2ou",
+        "spotify.id": "0lJEYLAJU5KtthQroas2ou"
+    },
+    "Prince & The Revolution - Let's Go Crazy myfreemp3.vip": {
+        "artist": "Prince & The Revolution",
+        "title": "Let's Go Crazy",
+        "album": "Purple Rain",
+        "release_date": "1984-06-19",
+        "spotify.uri": "spotify:track:6FMIVQPZg9cmMY8hPxAacD",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6FMIVQPZg9cmMY8hPxAacD",
+        "spotify.id": "6FMIVQPZg9cmMY8hPxAacD"
+    },
+    "12 maniatic-michael sembello": {
+        "artist": "Michael Sembello",
+        "title": "Maniac",
+        "album": "Body By Jake: 80s Flashback Dance Fitness (BPM 100-164)",
+        "release_date": "2012-10-09",
+        "spotify.uri": "spotify:track:5bJU7zI4oaPOoS1Wmvllty",
+        "spotify.track_number": 23,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5bJU7zI4oaPOoS1Wmvllty",
+        "spotify.id": "5bJU7zI4oaPOoS1Wmvllty"
+    },
+    "50 POUR SOME SUGAR ON ME": {
+        "artist": "Def Leppard",
+        "title": "Pour Some Sugar On Me",
+        "album": "Best Of",
+        "release_date": "2004-10-25",
+        "spotify.uri": "spotify:track:1aZLIbKEdsyqxyD6iNcrbA",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1aZLIbKEdsyqxyD6iNcrbA",
+        "spotify.id": "1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    "21 ALWAYS ON MY MIND.MP3": {
+        "artist": "Pet Shop Boys",
+        "title": "Always On My Mind",
+        "album": "Discography - Complete Singles Collection",
+        "release_date": "1991-11-04",
+        "spotify.uri": "spotify:track:07ABETRdek3ACMpRPvQuaT",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/07ABETRdek3ACMpRPvQuaT",
+        "spotify.id": "07ABETRdek3ACMpRPvQuaT"
+    },
+    "James Brown Living in America (Official Audio)": {
+        "artist": "James Brown",
+        "title": "Living In America",
+        "album": "Rocky IV",
+        "release_date": "2006-12-01",
+        "spotify.uri": "spotify:track:4Y5yjzs9FFw5qIgfZBd43I",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4Y5yjzs9FFw5qIgfZBd43I",
+        "spotify.id": "4Y5yjzs9FFw5qIgfZBd43I"
+    },
+    "13 moloko - fun for me": {
+        "artist": "Moloko",
+        "title": "Fun For Me",
+        "album": "Catalogue",
+        "release_date": "2006-06-26",
+        "spotify.uri": "spotify:track:4QgufEgDhiXzYaj34pAaSc",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4QgufEgDhiXzYaj34pAaSc",
+        "spotify.id": "4QgufEgDhiXzYaj34pAaSc"
+    },
+    "56 TAKE ON ME.MP3": {
+        "artist": "a-ha",
+        "title": "Take On Me",
+        "album": "100 Greatest Driving Songs",
+        "release_date": "2022-08-19",
+        "spotify.uri": "spotify:track:32qNg1mb7N4sZNQVltFQFZ",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/32qNg1mb7N4sZNQVltFQFZ",
+        "spotify.id": "32qNg1mb7N4sZNQVltFQFZ"
+    },
+    "26 carlos santana & michelle branch - game of love": {
+        "artist": "Santana",
+        "title": "The Game of Love",
+        "album": "Supernatural/Shaman",
+        "release_date": "2011-04-04",
+        "spotify.uri": "spotify:track:41IShViF79gmulEkIHAjcb",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/41IShViF79gmulEkIHAjcb",
+        "spotify.id": "41IShViF79gmulEkIHAjcb"
+    },
+    "Elton John The One": {
+        "artist": "Elton John",
+        "title": "The One (Remastered 2017)",
+        "album": "NOW - Yearbook 1992",
+        "release_date": "2023-07-07",
+        "spotify.uri": "spotify:track:08o2HsWIE9vx92e8ZXmp4c",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/08o2HsWIE9vx92e8ZXmp4c",
+        "spotify.id": "08o2HsWIE9vx92e8ZXmp4c"
+    },
+    "Soup Dragons 'I'm Free'": {
+        "artist": "The Soup Dragons",
+        "title": "I'm Free",
+        "album": "Lovegod",
+        "release_date": "1990-01-01",
+        "spotify.uri": "spotify:track:5TMZeuMVTeuvkhG3cxkpsU",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5TMZeuMVTeuvkhG3cxkpsU",
+        "spotify.id": "5TMZeuMVTeuvkhG3cxkpsU"
+    },
+    "32 HOLDING OUT FOR A HERO.MP3": {
+        "artist": "Bonnie Tyler",
+        "title": "Holding Out for a Hero (Album Version)",
+        "album": "The Best Of The 80's",
+        "release_date": "2007-12-10",
+        "spotify.uri": "spotify:track:32Sl2Phk37JbYH3Vx5DY5i",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/32Sl2Phk37JbYH3Vx5DY5i",
+        "spotify.id": "32Sl2Phk37JbYH3Vx5DY5i"
+    },
+    "Donna Lewis I Love You Always Forever": {
+        "artist": "Donna Lewis",
+        "title": "I Love You Always Forever",
+        "album": "Now In A Minute",
+        "release_date": "1996-04-16",
+        "spotify.uri": "spotify:track:1PEqh7awkpuepLBSq8ZwqD",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1PEqh7awkpuepLBSq8ZwqD",
+        "spotify.id": "1PEqh7awkpuepLBSq8ZwqD"
+    },
+    "38 janet jackson - when i think of you": {
+        "artist": "Janet Jackson",
+        "title": "When I Think Of You",
+        "album": "True 80's Love",
+        "release_date": "2008-01-01",
+        "spotify.uri": "spotify:track:3mJ6pNcFM2CkykCYSREdKT",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3mJ6pNcFM2CkykCYSREdKT",
+        "spotify.id": "3mJ6pNcFM2CkykCYSREdKT"
+    },
+    "05 the verve - bitter sweet sinfony": {
+        "artist": "The Verve",
+        "title": "Bitter Sweet Symphony",
+        "album": "Urban Hymns",
+        "release_date": "1997-09-29",
+        "spotify.uri": "spotify:track:2i4AouhQeGFBb4g3cx8yqg",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2i4AouhQeGFBb4g3cx8yqg",
+        "spotify.id": "2i4AouhQeGFBb4g3cx8yqg"
+    },
+    "55 TAKE MY BREATH AWAY.MP3": {
+        "artist": "Berlin",
+        "title": "Take My Breath Away (Love Theme from \"Top Gun\")",
+        "album": "Back To The US of A",
+        "release_date": "2500-12-31",
+        "spotify.uri": "spotify:track:4z3QwWOFfRN2gd9N1hQ3CS",
+        "spotify.track_number": 49,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4z3QwWOFfRN2gd9N1hQ3CS",
+        "spotify.id": "4z3QwWOFfRN2gd9N1hQ3CS"
+    },
+    "Queen Play The Game (Official Audio)": {
+        "artist": "Queen",
+        "title": "Play The Game",
+        "album": "The Game",
+        "release_date": "2011-01-01",
+        "spotify.uri": "spotify:track:5p6xhgQCwzX0G9PadMU9GA",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5p6xhgQCwzX0G9PadMU9GA",
+        "spotify.id": "5p6xhgQCwzX0G9PadMU9GA"
+    },
+    "Queen We Will Rock You (Official Audio)": {
+        "artist": "Queen",
+        "title": "We Will Rock You - 2011 Remaster",
+        "album": "News Of The World",
+        "release_date": "2011-06-26",
+        "spotify.uri": "spotify:track:4pbJqGIASGPr0ZpGpnWkDn",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4pbJqGIASGPr0ZpGpnWkDn",
+        "spotify.id": "4pbJqGIASGPr0ZpGpnWkDn"
+    },
+    "Carlos Vives Ella": {
+        "artist": "Carlos Vives",
+        "title": "Ella",
+        "album": "La Tierra del Olvido",
+        "release_date": "2013-10-29",
+        "spotify.uri": "spotify:track:3ywMzfYCzW9nGnOuYU5nPb",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3ywMzfYCzW9nGnOuYU5nPb",
+        "spotify.id": "3ywMzfYCzW9nGnOuYU5nPb"
+    },
+    "Altos del Rosario": {
+        "artist": "Carlos Vives",
+        "title": "Altos del Rosario",
+        "album": "Clasicos de la Provincia",
+        "release_date": "2013-10-29",
+        "spotify.uri": "spotify:track:3qi5VAsNRSbtHIW9vDrO3z",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3qi5VAsNRSbtHIW9vDrO3z",
+        "spotify.id": "3qi5VAsNRSbtHIW9vDrO3z"
+    },
+    "Carlos Vives La Tierra del Olvido (Oficial) (1995) (2)": {
+        "artist": "Carlos Vives",
+        "title": "La Tierra del Olvido",
+        "album": "La Tierra del Olvido",
+        "release_date": "2013-10-29",
+        "spotify.uri": "spotify:track:1TPZ028i7BWWS5xW4UN9ss",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1TPZ028i7BWWS5xW4UN9ss",
+        "spotify.id": "1TPZ028i7BWWS5xW4UN9ss"
+    },
+    "carlos vives - carito": {
+        "artist": "Carlos Vives",
+        "title": "Carito",
+        "album": "Dejame Entrar",
+        "release_date": "2001-10-25",
+        "spotify.uri": "spotify:track:5czkBkWogUvTf2jleGyHaQ",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5czkBkWogUvTf2jleGyHaQ",
+        "spotify.id": "5czkBkWogUvTf2jleGyHaQ"
+    },
+    "alberto plaza - ahora": {
+        "artist": "Alberto Plaza",
+        "title": "Ahora",
+        "album": "Febrero 14",
+        "release_date": "2003-10-27",
+        "spotify.uri": "spotify:track:56AP8GZI4KOhbgvx6D5ume",
+        "spotify.track_number": 8,
+        "spotify.href": "https://api.spotify.com/v1/tracks/56AP8GZI4KOhbgvx6D5ume",
+        "spotify.id": "56AP8GZI4KOhbgvx6D5ume"
+    },
+    "alberto plaza - no seas cruel": {
+        "artist": "Alberto Plaza",
+        "title": "No Seas Cruel",
+        "album": "15 Anos Vivo",
+        "release_date": "2006-07-25",
+        "spotify.uri": "spotify:track:1Gum15Xgg0SfNUqKSZm4QQ",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1Gum15Xgg0SfNUqKSZm4QQ",
+        "spotify.id": "1Gum15Xgg0SfNUqKSZm4QQ"
+    },
+    "alberto plaza - ocurre": {
+        "artist": "Alberto Plaza",
+        "title": "Ocurre",
+        "album": "Polvo De Estrellas",
+        "release_date": "2019-03-20",
+        "spotify.uri": "spotify:track:5yt2Ns9YtnXdq4vVOvwKWY",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5yt2Ns9YtnXdq4vVOvwKWY",
+        "spotify.id": "5yt2Ns9YtnXdq4vVOvwKWY"
+    },
+    "alberto plaza - aventurera": {
+        "artist": "Alberto Plaza",
+        "title": "Aventura",
+        "album": "Alberto Plaza",
+        "release_date": "2002-06-06",
+        "spotify.uri": "spotify:track:3gMNocZdHgKTkXmPwn1pwq",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3gMNocZdHgKTkXmPwn1pwq",
+        "spotify.id": "3gMNocZdHgKTkXmPwn1pwq"
+    },
+    "alberto plaza -ahora es miguel": {
+        "artist": "Alberto Plaza",
+        "title": "Ahora Es Miguel",
+        "album": "Alberto Plaza",
+        "release_date": "2002-06-06",
+        "spotify.uri": "spotify:track:0gew9DpvVcOkDCHBLwXNcr",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0gew9DpvVcOkDCHBLwXNcr",
+        "spotify.id": "0gew9DpvVcOkDCHBLwXNcr"
+    },
+    "alberto plaza - milagro de abril": {
+        "artist": "Alberto Plaza",
+        "title": "Milagro De Abril",
+        "album": "Alberto Plaza",
+        "release_date": "2002-06-06",
+        "spotify.uri": "spotify:track:0j4IjR2NZJVFnqhsz67KOt",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0j4IjR2NZJVFnqhsz67KOt",
+        "spotify.id": "0j4IjR2NZJVFnqhsz67KOt"
+    },
+    "alberto plaza - dUjame entrar": {
+        "artist": "Alberto Plaza",
+        "title": "Polvo De Estrellas",
+        "album": "Para ir en Bicicleta",
+        "release_date": "2020-07-10",
+        "spotify.uri": "spotify:track:10voF9Z0ukTnhltLo5gF4H",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/10voF9Z0ukTnhltLo5gF4H",
+        "spotify.id": "10voF9Z0ukTnhltLo5gF4H"
+    },
+    "6 Estamos solos rey ruiz (2)": {
+        "artist": "Rey Ruiz",
+        "title": "Estamos Solos",
+        "album": "Lo Esencial",
+        "release_date": "2011-09-01",
+        "spotify.uri": "spotify:track:1icDiNNUdGBp51jNLPbeFO",
+        "spotify.track_number": 12,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1icDiNNUdGBp51jNLPbeFO",
+        "spotify.id": "1icDiNNUdGBp51jNLPbeFO"
+    },
+    "Rey Ruiz - Mi media Mitad (Video)_wQUcaSEuob0": {
+        "artist": "Rey Ruiz",
+        "title": "Mi Media Mitad",
+        "album": "Dos Clasicos",
+        "release_date": "2011-03-07",
+        "spotify.uri": "spotify:track:0vffx55ffXHq2bz0yKlZiM",
+        "spotify.track_number": 5,
+        "spotify.href": "https://api.spotify.com/v1/tracks/0vffx55ffXHq2bz0yKlZiM",
+        "spotify.id": "0vffx55ffXHq2bz0yKlZiM"
+    },
+    "9 Grupo Niche Busca por dentro": {
+        "artist": "Grupo Niche",
+        "title": "Busca por Dentro (Radio Version)",
+        "album": "10 De Coleccion",
+        "release_date": "2008-04-01",
+        "spotify.uri": "spotify:track:6j8DFPgeAp5Eio5DcYtB28",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6j8DFPgeAp5Eio5DcYtB28",
+        "spotify.id": "6j8DFPgeAp5Eio5DcYtB28"
+    },
+    "1 Celia Cruz - Usted Abuso": {
+        "artist": "Celia Cruz",
+        "title": "Usted Abuso",
+        "album": "49 Minutes",
+        "release_date": "2019-06-01",
+        "spotify.uri": "spotify:track:3FNjqlfbQ153UsLKhDIxHo",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3FNjqlfbQ153UsLKhDIxHo",
+        "spotify.id": "3FNjqlfbQ153UsLKhDIxHo"
+    },
+    "20 quiero morir en tu piel": {
+        "artist": "Willie Gonzalez",
+        "title": "Quiero Morir En Tu Piel",
+        "album": "Grandes Exitos",
+        "release_date": "2006-01-01",
+        "spotify.uri": "spotify:track:3t3jGDeU3t1ro51C3x2pPR",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3t3jGDeU3t1ro51C3x2pPR",
+        "spotify.id": "3t3jGDeU3t1ro51C3x2pPR"
+    },
+    "7 corazon embustero la grande de madrid (2)": {
+        "artist": "La Grande De Madrid",
+        "title": "Corazon Embustero",
+        "album": "Salsa Para El Corazon",
+        "release_date": "2006-03-29",
+        "spotify.uri": "spotify:track:1kw4xVx6Z5Mx6RTyymRXh8",
+        "spotify.track_number": 10,
+        "spotify.href": "https://api.spotify.com/v1/tracks/1kw4xVx6Z5Mx6RTyymRXh8",
+        "spotify.id": "1kw4xVx6Z5Mx6RTyymRXh8"
+    },
+    "ruben bladez - desiciones": {
+        "artist": "Ruben Blades",
+        "title": "Decisiones",
+        "album": "Buscando America",
+        "release_date": "1984-04-03",
+        "spotify.uri": "spotify:track:2BOcua9pjhKuVtgN40AAHX",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2BOcua9pjhKuVtgN40AAHX",
+        "spotify.id": "2BOcua9pjhKuVtgN40AAHX"
+    },
+    "Joe Arroyo Echao Pa' lante Jconver (2)": {
+        "artist": "Joe Arroyo",
+        "title": "Echao Pa Lante (Live Extended)",
+        "album": "Live!",
+        "release_date": "2015-07-01",
+        "spotify.uri": "spotify:track:5iZqktZ8gXMM2M3rBdX5OR",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5iZqktZ8gXMM2M3rBdX5OR",
+        "spotify.id": "5iZqktZ8gXMM2M3rBdX5OR"
+    },
+    "5 Gilberto Santa Rosa Que alguien me diga": {
+        "artist": "Gilberto Santa Rosa",
+        "title": "Que Alguien Me Diga",
+        "album": "El Caballero De La Salsa - La Historia Tropical",
+        "release_date": "2008-07-21",
+        "spotify.uri": "spotify:track:7JElWLgpQ7lxN1JNIYwuVu",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/7JElWLgpQ7lxN1JNIYwuVu",
+        "spotify.id": "7JElWLgpQ7lxN1JNIYwuVu"
+    },
+    "ruben blades - plastico": {
+        "artist": "Ruben Blades",
+        "title": "Plastico",
+        "album": "Salsa Simply The Best",
+        "release_date": "2007-12-04",
+        "spotify.uri": "spotify:track:3ZIE8flTJ6WWn8wF0YzaaQ",
+        "spotify.track_number": 1,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3ZIE8flTJ6WWn8wF0YzaaQ",
+        "spotify.id": "3ZIE8flTJ6WWn8wF0YzaaQ"
+    },
+    "11 amigo y punto": {
+        "artist": "Rey Ruiz",
+        "title": "Si Te Preguntan",
+        "album": "Dos Clasicos",
+        "release_date": "2011-03-07",
+        "spotify.uri": "spotify:track:3Bg1xF0RPxbFN4eIen8PSG",
+        "spotify.track_number": 6,
+        "spotify.href": "https://api.spotify.com/v1/tracks/3Bg1xF0RPxbFN4eIen8PSG",
+        "spotify.id": "3Bg1xF0RPxbFN4eIen8PSG"
+    },
+    "FITO PAEZ Yo vengo a ofrecer mi corazon": {
+        "artist": "Fito Paez",
+        "title": "Yo Vengo A Ofrecer Mi Corazon",
+        "album": "No Se Si Es Baires O Madrid",
+        "release_date": "2009-03-12",
+        "spotify.uri": "spotify:track:6to2OFx1AF8KJM5WB2DDAA",
+        "spotify.track_number": 9,
+        "spotify.href": "https://api.spotify.com/v1/tracks/6to2OFx1AF8KJM5WB2DDAA",
+        "spotify.id": "6to2OFx1AF8KJM5WB2DDAA"
+    },
+    "fito pAez - te vi114": {
+        "artist": "Fito Paez",
+        "title": "Un vestido y un amor",
+        "album": "El Amor Despues del Amor",
+        "release_date": "1992-02-01",
+        "spotify.uri": "spotify:track:2fuN5UVkZFtak2aOpXJSln",
+        "spotify.track_number": 7,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2fuN5UVkZFtak2aOpXJSln",
+        "spotify.id": "2fuN5UVkZFtak2aOpXJSln"
+    },
+    "joaquin sabina & fito paez - llueve sobre mojado": {
+        "artist": "Joaquin Sabina",
+        "title": "Llueve Sobre Mojado",
+        "album": "Enemigos Intimos",
+        "release_date": "1998-05-25",
+        "spotify.uri": "spotify:track:5aKKj4RgxT0a9k1FF7ZDnD",
+        "spotify.track_number": 3,
+        "spotify.href": "https://api.spotify.com/v1/tracks/5aKKj4RgxT0a9k1FF7ZDnD",
+        "spotify.id": "5aKKj4RgxT0a9k1FF7ZDnD"
+    },
+    "FITO PAEZAL LADO DEL CAMINO": {
+        "artist": "Fito Paez",
+        "title": "Al Lado del Camino",
+        "album": "Abre",
+        "release_date": "1999-07-27",
+        "spotify.uri": "spotify:track:4Ft15s9T7pcG7O85VbdxVl",
+        "spotify.track_number": 2,
+        "spotify.href": "https://api.spotify.com/v1/tracks/4Ft15s9T7pcG7O85VbdxVl",
+        "spotify.id": "4Ft15s9T7pcG7O85VbdxVl"
+    },
+    "fito paez - once y seis": {
+        "artist": "Fito Paez",
+        "title": "11 Y 6",
+        "album": "Giros",
+        "release_date": "1985-01-01",
+        "spotify.uri": "spotify:track:2PkTjm1QAJCZbJ9MqC4RqA",
+        "spotify.track_number": 4,
+        "spotify.href": "https://api.spotify.com/v1/tracks/2PkTjm1QAJCZbJ9MqC4RqA",
+        "spotify.id": "2PkTjm1QAJCZbJ9MqC4RqA"
+    },
+    "24 MYRIAM HERNANDEZ Huele a peligro LETRA": {
+        "artist": "Myriam Hernandez",
+        "title": "Huele a Peligro",
+        "album": "Todo el Amor",
+        "release_date": "2500-12-31",
+        "spotify.uri": "spotify:track:5qPsvYBxpqxZYwRgq1SQ9j",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/5qPsvYBxpqxZYwRgq1SQ9j",
+        "spotify.id": "5qPsvYBxpqxZYwRgq1SQ9j"
+    },
+    "Lucia Mendez Mi amor amor": {
+        "artist": "Lucia Mendez",
+        "title": "Mi Amor Amor",
+        "album": "Coleccion Original",
+        "release_date": "1990-01-01",
+        "spotify.uri": "spotify:track:52MtS8GblLs1yBVLjecSk1",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/52MtS8GblLs1yBVLjecSk1",
+        "spotify.id": "52MtS8GblLs1yBVLjecSk1"
+    },
+    "Alejandra Guzman Mala Hierba": {
+        "artist": "Alejandra Guzman",
+        "title": "Mala Hierba",
+        "album": "Lo Esencial De Alejandra Guzman",
+        "release_date": "2003-03-11",
+        "spotify.uri": "spotify:track:6ICqkrV4AarkW0suMPMYCY",
+        "spotify.track_number": 10,
+        "spotify.href": "https://open.spotify.com/track/6ICqkrV4AarkW0suMPMYCY",
+        "spotify.id": "6ICqkrV4AarkW0suMPMYCY"
+    },
+    "Kraftwerk Tour de France (Radio Version)": {
+        "artist": "Kraftwerk",
+        "title": "Tour De France",
+        "album": "Tour de France",
+        "release_date": "1999-07-02",
+        "spotify.uri": "spotify:track:5uNlgK7FEg6r9BGy12P9Sx",
+        "spotify.track_number": 12,
+        "spotify.href": "https://open.spotify.com/track/5uNlgK7FEg6r9BGy12P9Sx",
+        "spotify.id": "5uNlgK7FEg6r9BGy12P9Sx"
+    },
+    "C418 Mice on Venus Minecraft Volume Alpha": {
+        "artist": "C418",
+        "title": "Mice on Venus",
+        "album": "Mice on Venus",
+        "release_date": "2024-08-30",
+        "spotify.uri": "spotify:track:5fqjfiMOFapIb8uFcxBStH",
+        "spotify.track_number": 11,
+        "spotify.href": "https://open.spotify.com/track/5fqjfiMOFapIb8uFcxBStH",
+        "spotify.id": "5fqjfiMOFapIb8uFcxBStH"
+    },
+    "los rabanes - my comanding wife": {
+        "artist": "Los Rabanes",
+        "title": "My Commanding Wife",
+        "album": "Los Rabanes",
+        "release_date": "2011-09-01",
+        "spotify.uri": "spotify:track:1Yioe436ryeIRmiEzsrzVv",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv",
+        "spotify.id": "1Yioe436ryeIRmiEzsrzVv"
+    },
+    "Kraken Una Vez Mas (2)": {
+        "artist": "Kraken",
+        "title": "Una Vez Mas",
+        "album": "Kraken 2",
+        "release_date": "2012-08-20",
+        "spotify.uri": "spotify:track:11K7mHEmbebrPnTnq1dVg9",
+        "spotify.track_number": 7,
+        "spotify.href": "https://open.spotify.com/track/11K7mHEmbebrPnTnq1dVg9",
+        "spotify.id": "11K7mHEmbebrPnTnq1dVg9"
+    },
+    "Caifanes Matenme por que me muero": {
+        "artist": "Caifanes",
+        "title": "Matenme Porque Me Muero",
+        "album": "Recupera Tus Clasicos - Caifanes",
+        "release_date": "2011-03-21",
+        "spotify.uri": "spotify:track:6cqwDeMvlCKI9CoeVahGrM",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM",
+        "spotify.id": "6cqwDeMvlCKI9CoeVahGrM"
+    },
+    "miguel mateos - beso frances - beso frances": {
+        "artist": "Miguel Mateos",
+        "title": "Beso Frances",
+        "album": "Coctel",
+        "release_date": "2007-03-20",
+        "spotify.uri": "spotify:track:1JOPSRJSg5Y9UhXoWYIlvt",
+        "spotify.track_number": 3,
+        "spotify.href": "https://open.spotify.com/track/1JOPSRJSg5Y9UhXoWYIlvt",
+        "spotify.id": "1JOPSRJSg5Y9UhXoWYIlvt"
+    },
+    "delinquent habits - los tres delincuentes": {
+        "artist": "Delinquent Habits",
+        "title": "Tres Delinquentes",
+        "album": "Delinquent Habits",
+        "release_date": "1996-06-04",
+        "spotify.uri": "spotify:track:1dstLlsgEFPsaiccsUz2SP",
+        "spotify.track_number": 39,
+        "spotify.href": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP",
+        "spotify.id": "1dstLlsgEFPsaiccsUz2SP"
+    },
+    "miguel mateos - llamame si me necesitas": {
+        "artist": "Miguel Mateos",
+        "title": "Llamame Si Me Necesitas",
+        "album": "Grandes Exitos",
+        "release_date": "2013-03-10",
+        "spotify.uri": "spotify:track:42HQLzOUKwStGDTNlX0DzY",
+        "spotify.track_number": 5,
+        "spotify.href": "https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY",
+        "spotify.id": "42HQLzOUKwStGDTNlX0DzY"
+    },
+    "fobia - leche - miel del escorpion": {
+        "artist": "Fobia",
+        "title": "Miel del Escorpion",
+        "album": "BOOM: Lo Mejor Del 93",
+        "release_date": "2014-11-06",
+        "spotify.uri": "spotify:track:5DNbHgrXLEkH1CkVo4n0Rt",
+        "spotify.track_number": 6,
+        "spotify.href": "https://open.spotify.com/track/5DNbHgrXLEkH1CkVo4n0Rt",
+        "spotify.id": "5DNbHgrXLEkH1CkVo4n0Rt"
+    },
+    "juan luis guerra - te regalo una rosa": {
+        "artist": "Juan Luis Guerra",
+        "title": "Bachata Rosa",
+        "album": "Bachata Rosa",
+        "release_date": "1990-02-13",
+        "spotify.uri": "spotify:track:3H9GcHKKJyZ9TEOLKlJ1U5",
+        "spotify.track_number": 8,
+        "spotify.href": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5",
+        "spotify.id": "3H9GcHKKJyZ9TEOLKlJ1U5"
+    },
+    "juan luis guerra - quisiera ser un pez": {
+        "artist": "Juan Luis Guerra",
+        "title": "Burbujas de Amor",
+        "album": "Bachata Rosa",
+        "release_date": "1990-02-13",
+        "spotify.uri": "spotify:track:0UoAcG1vxtFjes7rZz8Js0",
+        "spotify.track_number": 7,
+        "spotify.href": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0",
+        "spotify.id": "0UoAcG1vxtFjes7rZz8Js0"
+    },
+    "juan luis guerra - eran las 5 de la manana": {
+        "artist": "Juan Luis Guerra",
+        "title": "Visa Para un Sue?o",
+        "album": "Ojala Que Llueva Cafe",
+        "release_date": "2000-10-01",
+        "spotify.uri": "spotify:track:6mmcsCrrASekHEUfjuNFOO",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO",
+        "spotify.id": "6mmcsCrrASekHEUfjuNFOO"
+    },
+    "juan luis guerra - ojala que llueva cafe": {
+        "artist": "Juan Luis Guerra",
+        "title": "Ojala Que Llueva Cafe",
+        "album": "Panete Salsa: Le Meilleur de la Musique Latine",
+        "release_date": "2012-02-01",
+        "spotify.uri": "spotify:track:2HQqhVP8NOaoIhPTQ8I5bm",
+        "spotify.track_number": 2,
+        "spotify.href": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm",
+        "spotify.id": "2HQqhVP8NOaoIhPTQ8I5bm"
+    },
+    "juan luis guerra - ni es lo mismo ni es igual - la hormiguita": {
+        "artist": "Juan L. Guerra",
+        "title": "La Hormiguita",
+        "album": "La Hormiguita",
+        "release_date": "2019-02-28",
+        "spotify.uri": "spotify:track:5FNE4lOC3iU9ItMxlt5NdG",
+        "spotify.track_number": 3,
+        "spotify.href": "https://open.spotify.com/track/5FNE4lOC3iU9ItMxlt5NdG",
+        "spotify.id": "5FNE4lOC3iU9ItMxlt5NdG"
+    },
+    "58 THE UNFOGIVEN": {
+        "artist": "Metallica",
+        "title": "The Unforgiven",
+        "album": "The Unforgiven",
+        "release_date": "1991-08-12",
+        "spotify.uri": "spotify:track:4aYLAF6ckQ5ooGGGM7sWAa",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/4aYLAF6ckQ5ooGGGM7sWAa",
+        "spotify.id": "4aYLAF6ckQ5ooGGGM7sWAa"
+    },
+    "41 katrina and the waves - i'm walking on sunshine": {
+        "artist": "Katrina & the Waves",
+        "title": "Walking On Sunshine",
+        "album": "Het Beste Uit De Q Music Top 500 Van De Zomer 2014",
+        "release_date": "2016-05-20",
+        "spotify.uri": "spotify:track:05wIrZSwuaVWhcv5FfqeH0",
+        "spotify.track_number": 6,
+        "spotify.href": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0",
+        "spotify.id": "05wIrZSwuaVWhcv5FfqeH0"
+    },
+    "68YOU GIVE LOVE A DAB NAME": {
+        "artist": "Bon Jovi",
+        "title": "You Give Love A Bad Name",
+        "album": "Cross Road",
+        "release_date": "1994-10-18",
+        "spotify.uri": "spotify:track:0rmGAIH9LNJewFw7nKzZnc",
+        "spotify.track_number": 2,
+        "spotify.href": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc",
+        "spotify.id": "0rmGAIH9LNJewFw7nKzZnc"
+    },
+    "36 inuendo": {
+        "artist": "Queen",
+        "title": "Innuendo",
+        "album": "Innuendo",
+        "release_date": "2011-01-01",
+        "spotify.uri": "spotify:track:0BzhS74ByIVlyz8BedHaYi",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi",
+        "spotify.id": "0BzhS74ByIVlyz8BedHaYi"
+    },
+    "61 u2 - elevation": {
+        "artist": "U2",
+        "title": "Elevation",
+        "album": "Elevation",
+        "release_date": "2001-06-04",
+        "spotify.uri": "spotify:track:4BC2WQKrZdqMX6rHsvVbUy",
+        "spotify.track_number": 3,
+        "spotify.href": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy",
+        "spotify.id": "4BC2WQKrZdqMX6rHsvVbUy"
+    },
+    "Pet Shop Boys New York City Boy": {
+        "artist": "Pet Shop Boys",
+        "title": "New York City Boy",
+        "album": "Nightlife",
+        "release_date": "1999-10-11",
+        "spotify.uri": "spotify:track:7KeoeLwqtTIIgeHkvgxkeT",
+        "spotify.track_number": 11,
+        "spotify.href": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT",
+        "spotify.id": "7KeoeLwqtTIIgeHkvgxkeT"
+    },
+    "Frankie Goes To Hollywood Relax (Laser Version)": {
+        "artist": "Frankie Goes to Hollywood",
+        "title": "Relax",
+        "album": "Platinum 80's",
+        "release_date": null,
+        "spotify.uri": "spotify:track:2K22nUTdyr48JDwI5t906t",
+        "spotify.track_number": 3,
+        "spotify.href": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t",
+        "spotify.id": "2K22nUTdyr48JDwI5t906t"
+    },
+    "Milli Vanilli All Or Nothing (Video)": {
+        "artist": "Milli Vanilli",
+        "title": "Milli Vanilli All Or Nothing",
+        "album": "BillBoard Top 100 Of 1990",
+        "release_date": "2006-01-01",
+        "spotify.uri": "spotify:track:2dThEJP9S344qzNhePcSzj",
+        "spotify.track_number": 5,
+        "spotify.href": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj",
+        "spotify.id": "2dThEJP9S344qzNhePcSzj"
+    },
+    "Whitesnake Here I Go Again '87 (2)": {
+        "artist": "Whitesnake",
+        "title": "Here I Go Again",
+        "album": "Chronicles",
+        "release_date": "2006-02-01",
+        "spotify.uri": "spotify:track:1tQ5TSr1tyeQUbHKBee0jv",
+        "spotify.track_number": 2,
+        "spotify.href": "https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv",
+        "spotify.id": "1tQ5TSr1tyeQUbHKBee0jv"
+    },
+    "08 christina aguilera - i torn to you": {
+        "artist": "Christina Aguilera",
+        "title": "I Turn To You",
+        "album": "Kuschel Rock 14",
+        "release_date": "2000-09-19",
+        "spotify.uri": "spotify:track:4Do68W4FWO2hRAJCzG1lus",
+        "spotify.track_number": 3,
+        "spotify.href": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus",
+        "spotify.id": "4Do68W4FWO2hRAJCzG1lus"
+    },
+    "Beverly Hills Cop Main Theme": {
+        "artist": "Harold Faltermeyer",
+        "title": "Axel F.",
+        "album": "Decada de los 80",
+        "release_date": "2003-09-09",
+        "spotify.uri": "spotify:track:2kgqupahrJpYB4r1poTXEY",
+        "spotify.track_number": 10,
+        "spotify.href": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY",
+        "spotify.id": "2kgqupahrJpYB4r1poTXEY"
+    },
+    "01 Change The World - Eric Clapton": {
+        "artist": "Eric Clapton",
+        "title": "Change The World",
+        "album": "Forever Man",
+        "release_date": "2015-04-28",
+        "spotify.uri": "spotify:track:5Ds0VGkTSQ1jf4KzLUpZPb",
+        "spotify.track_number": 2,
+        "spotify.href": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb",
+        "spotify.id": "5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    "53 SARA.MP3": {
+        "artist": "Starship",
+        "title": "Sara (Digitally Mastered - October, 1989)",
+        "album": "I Wanna Rock \"Born In USA\"",
+        "release_date": "2011-06-28",
+        "spotify.uri": "spotify:track:3tf0iRfyJd4eYqs1Dn1w79",
+        "spotify.track_number": 11,
+        "spotify.href": "https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79",
+        "spotify.id": "3tf0iRfyJd4eYqs1Dn1w79"
+    },
+    "Billy Joel We Didn't Start The Fire": {
+        "artist": "Billy Joel",
+        "title": "We Didn't Start the Fire (Remastered)",
+        "album": "Original Album Classics #2 (Remastered)",
+        "release_date": "2014-10-10",
+        "spotify.uri": "spotify:track:1z4uTHwttXGNZpkA7ieSvJ",
+        "spotify.track_number": 14,
+        "spotify.href": "https://open.spotify.com/track/1z4uTHwttXGNZpkA7ieSvJ",
+        "spotify.id": "1z4uTHwttXGNZpkA7ieSvJ"
+    },
+    "Robert Palmer - Simply Irresistible myfreemp3.vip (2)": {
+        "artist": "Robert Palmer",
+        "title": "Simply Irresistible",
+        "album": "Addictions Volume 1",
+        "release_date": "1989-01-01",
+        "spotify.uri": "spotify:track:7mmhMfqs3knRMMlvnMPTHn",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/7mmhMfqs3knRMMlvnMPTHn",
+        "spotify.id": "7mmhMfqs3knRMMlvnMPTHn"
+    },
+    "23 bjork big time sensuality": {
+        "artist": "Bjork",
+        "title": "Big Time Sensuality",
+        "album": "Debut",
+        "release_date": "1993-06-22",
+        "spotify.uri": "spotify:track:5diiEB0edX69v9x3e96NyO",
+        "spotify.track_number": 6,
+        "spotify.href": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO",
+        "spotify.id": "5diiEB0edX69v9x3e96NyO"
+    },
+    "46 No Woman No Cry - Bob Marley": {
+        "artist": "Bob Marley & The Wailers",
+        "title": "No Woman, No Cry",
+        "album": "Legend",
+        "release_date": "1984-05-08",
+        "spotify.uri": "spotify:track:423hwXFgoN8RYmqLoLuVvY",
+        "spotify.track_number": 5,
+        "spotify.href": "https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY",
+        "spotify.id": "423hwXFgoN8RYmqLoLuVvY"
+    },
+    "40 JUMP.MP3": {
+        "artist": "Van Halen",
+        "title": "Jump (Album Version)",
+        "album": "Best of Van Halen Vol. 1",
+        "release_date": null,
+        "spotify.uri": "spotify:track:5T89s98RJA014koPOCMWNB",
+        "spotify.track_number": 17,
+        "spotify.href": "https://open.spotify.com/track/5T89s98RJA014koPOCMWNB",
+        "spotify.id": "5T89s98RJA014koPOCMWNB"
+    },
+    "The Search is Over Survivor": {
+        "artist": "Survivor",
+        "title": "Serch Is Over",
+        "album": "Finest Selection: The Search Is Not Over Yet",
+        "release_date": null,
+        "spotify.uri": "spotify:track:5iRAyksLtxqQIuoV9PQRU5",
+        "spotify.track_number": 9,
+        "spotify.href": "https://open.spotify.com/track/5iRAyksLtxqQIuoV9PQRU5",
+        "spotify.id": "5iRAyksLtxqQIuoV9PQRU5"
+    },
+    "Christopher Cross Best that you can do": {
+        "artist": "Christopher Cross",
+        "title": "Arthur' Theme",
+        "album": " ",
+        "release_date": "2002-02-01",
+        "spotify.uri": "spotify:track:5fnOrhQ4KgT5irGCjIccGH",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH",
+        "spotify.id": "5fnOrhQ4KgT5irGCjIccGH"
+    },
+    "11 Level 42 Lessons In Love": {
+        "artist": "Level 42",
+        "title": "Lessons in Love",
+        "album": "Les Annees 80",
+        "release_date": "2013-10-07",
+        "spotify.uri": "spotify:track:3EGI5qmVmGlfgy9BmNb1R8",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8",
+        "spotify.id": "3EGI5qmVmGlfgy9BmNb1R8"
+    },
+    "Europe The Final Countdown (Official Audio)": {
+        "artist": "Europe",
+        "title": "The Final Countdown",
+        "album": "Anni 80",
+        "release_date": "2019-06-20",
+        "spotify.uri": "spotify:track:3MrRksHupTVEQ7YbA0FsZK",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK",
+        "spotify.id": "3MrRksHupTVEQ7YbA0FsZK"
+    },
+    "Kylie Minogue - I Should Be So Lucky - Official Video": {
+        "artist": "Kylie Minogue",
+        "title": "I Should Be So Lucky (The Biocentennial Remix)",
+        "album": "Kylie's Remixes Vol. 1",
+        "release_date": "2006-08-05",
+        "spotify.uri": "spotify:track:61DjpqK1Cecn2d5OPQhB4q",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/61DjpqK1Cecn2d5OPQhB4q",
+        "spotify.id": "61DjpqK1Cecn2d5OPQhB4q"
+    },
+    "44 michael bolton - how am i supposed to live without you": {
+        "artist": "Michael Bolton",
+        "title": "how am i supposed to live without you",
+        "album": "Soul Provider",
+        "release_date": "1989-07-01",
+        "spotify.uri": "spotify:track:3RMeOetCdXttthQK0clPuz",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz",
+        "spotify.id": "3RMeOetCdXttthQK0clPuz"
+    },
+    "27 DREAM ON.MP3": {
+        "artist": "Boho Fau",
+        "title": "Dreamin'",
+        "album": "Bohemian Rhapsodies",
+        "release_date": "2013-04-29",
+        "spotify.uri": "spotify:track:3FtqkEST8eFWmh8opcCLgB",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/3FtqkEST8eFWmh8opcCLgB",
+        "spotify.id": "3FtqkEST8eFWmh8opcCLgB"
+    },
+    "David Guetta - Summer moon": {
+        "artist": "Africanism All-Stars / Ben Onono",
+        "title": "Summer Moon",
+        "album": "Summer Moon",
+        "release_date": "2006-04-11",
+        "spotify.uri": "spotify:track:45ihQmdCt9lb8coAotq2hU",
+        "spotify.track_number": 13,
+        "spotify.href": "https://open.spotify.com/track/45ihQmdCt9lb8coAotq2hU",
+        "spotify.id": "45ihQmdCt9lb8coAotq2hU"
+    },
+    "The Clash Should I Stay Or Should I Go": {
+        "artist": "The Clash",
+        "title": "Should I Stay or Should I Go",
+        "album": "London Calling / Combat Rock",
+        "release_date": "2008-12-31",
+        "spotify.uri": "spotify:track:39shmbIHICJ2Wxnk1fPSdz",
+        "spotify.track_number": 3,
+        "spotify.href": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz",
+        "spotify.id": "39shmbIHICJ2Wxnk1fPSdz"
+    },
+    "Billy Joel Just the Way You Are": {
+        "artist": "Billy Joel",
+        "title": "Just the Way You Are (Album Version)",
+        "album": "Greatest Hits Volume I & Volume II",
+        "release_date": "2002-11-15",
+        "spotify.uri": "spotify:track:76SzCWtdYjWiakoBzbyFyx",
+        "spotify.track_number": 17,
+        "spotify.href": "https://open.spotify.com/track/76SzCWtdYjWiakoBzbyFyx",
+        "spotify.id": "76SzCWtdYjWiakoBzbyFyx"
+    },
+    "You Belong To The City": {
+        "artist": "APM Karaoke Party",
+        "title": "You Belong to the City (Karaoke Version)",
+        "album": "Karaoke Hits: Glenn Frey",
+        "release_date": "2016-06-07",
+        "spotify.uri": "spotify:track:23U186rVJbFqMR53JnCg01",
+        "spotify.track_number": 3,
+        "spotify.href": "https://open.spotify.com/track/23U186rVJbFqMR53JnCg01",
+        "spotify.id": "23U186rVJbFqMR53JnCg01"
+    },
+    "Rick Astley - Together Forever (Official Video) [Remastered in 4K]": {
+        "artist": "Rick Astley",
+        "title": "Together Forever",
+        "album": "Essential - Girls Night In",
+        "release_date": "2016-11-25",
+        "spotify.uri": "spotify:track:00isIFJWVpXIQ8HkGICSQp",
+        "spotify.track_number": 3,
+        "spotify.href": "https://open.spotify.com/track/00isIFJWVpXIQ8HkGICSQp",
+        "spotify.id": "00isIFJWVpXIQ8HkGICSQp"
+    },
+    "Air Supply All Out Of Love": {
+        "artist": "Air Supply",
+        "title": "All Out of Love",
+        "album": "Deadpool 2 (Original Motion Picture Soundtrack) (Clean)",
+        "release_date": "2018-05-18",
+        "spotify.uri": "spotify:track:7dQC53NiYOY9gKg3Qsu2Bs",
+        "spotify.track_number": 2,
+        "spotify.href": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs",
+        "spotify.id": "7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    "CARLOS VIVES EL AMOR DE MI TIERRA": {
+        "artist": "Carlos Vives",
+        "title": "El Amor de Mi Tierra",
+        "album": "El Amor de Mi Tierra",
+        "release_date": "2013-11-26",
+        "spotify.uri": "spotify:track:1A0HAHpgIx56LxCplKjaoG",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/1A0HAHpgIx56LxCplKjaoG",
+        "spotify.id": "1A0HAHpgIx56LxCplKjaoG"
+    },
+    "SIN TI CARLOS VIVES, CLASICOS DE LA PROVINCIA II eccolovallenato": {
+        "artist": "Carlos Vives",
+        "title": "Sin Ti",
+        "album": "Clasicos de la Provincia II",
+        "release_date": "2013-10-29",
+        "spotify.uri": "spotify:track:2sKrR3Gtg3RdYlbz48giBd",
+        "spotify.track_number": 21,
+        "spotify.href": "https://open.spotify.com/track/2sKrR3Gtg3RdYlbz48giBd",
+        "spotify.id": "2sKrR3Gtg3RdYlbz48giBd"
+    },
+    "Carlos Vives Jaime Molina HD HQ (full video audio de estudio)": {
+        "artist": "CARLOS VIVES",
+        "title": "JAIME MOLINA",
+        "album": "VALLENATO",
+        "release_date": null,
+        "spotify.uri": "spotify:track:4JO2mnU5J3qDR0gtmAXt3X",
+        "spotify.track_number": 5,
+        "spotify.href": "https://open.spotify.com/track/4JO2mnU5J3qDR0gtmAXt3X",
+        "spotify.id": "4JO2mnU5J3qDR0gtmAXt3X"
+    },
+    "Como Podre Disimular, Tito Gomez - Video (2)": {
+        "artist": "Tito Gomez",
+        "title": "Como Podre Disimular",
+        "album": "Dejala",
+        "release_date": "2020-10-05",
+        "spotify.uri": "spotify:track:0rvSVIYp6ewTVkDzxYQbP9",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/0rvSVIYp6ewTVkDzxYQbP9",
+        "spotify.id": "0rvSVIYp6ewTVkDzxYQbP9"
+    },
+    "AMOR DE PRIMAVERA - CHANEY - LETRA - LYRIC VIDEO - HOLMES DJ - HQ-": {
+        "artist": "Conjunto Chaney",
+        "title": "Jardin Primaveral",
+        "album": "Mas Salsa",
+        "release_date": "2018-07-05",
+        "spotify.uri": "spotify:track:6ubUesAyvYV5ktyTlRvfXe",
+        "spotify.track_number": 5,
+        "spotify.href": "https://open.spotify.com/track/6ubUesAyvYV5ktyTlRvfXe",
+        "spotify.id": "6ubUesAyvYV5ktyTlRvfXe"
+    },
+    "2 SIEMPRE ALEGRE RAPHY LEAVITT (2)": {
+        "artist": "Raphy Leavitt",
+        "title": "Siempre Alegre",
+        "album": "Salsa Clasica",
+        "release_date": "2017-11-15",
+        "spotify.uri": "spotify:track:25urebdcIAXofM7Su1MJFd",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/25urebdcIAXofM7Su1MJFd",
+        "spotify.id": "25urebdcIAXofM7Su1MJFd"
+    },
+    "oscar de leon a el": {
+        "artist": "Oscar D'Leon",
+        "title": "A El",
+        "album": "Salsa para la Historia",
+        "release_date": "2020-11-20",
+        "spotify.uri": "spotify:track:3KFKZbbBc6tqHBmeSWJn2S",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/3KFKZbbBc6tqHBmeSWJn2S",
+        "spotify.id": "3KFKZbbBc6tqHBmeSWJn2S"
+    },
+    "19 willie colon-celos": {
+        "artist": "Willie Colon",
+        "title": "Celo",
+        "album": "Salsa Pal Mundo",
+        "release_date": "2020-07-19",
+        "spotify.uri": "spotify:track:0JWnqFLENqVGs4yNss52gy",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/0JWnqFLENqVGs4yNss52gy",
+        "spotify.id": "0JWnqFLENqVGs4yNss52gy"
+    },
+    "8 A DONDE IRAS.MP3": {
+        "artist": "Puerto Rican Power",
+        "title": "A Donde Iras Sin Mi",
+        "album": "Salsa King",
+        "release_date": "2020-08-22",
+        "spotify.uri": "spotify:track:6BWPT5ku80skdgRnBuMJ28",
+        "spotify.track_number": 13,
+        "spotify.href": "https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28",
+        "spotify.id": "6BWPT5ku80skdgRnBuMJ28"
+    },
+    "14 Ruben Blades Amor y Control": {
+        "artist": "Ruben Blades",
+        "title": "Amor y Control",
+        "album": "Mas Salsa por favor",
+        "release_date": "2022-12-07",
+        "spotify.uri": "spotify:track:1oUjLEp7oCpjQlSCiwBZsF",
+        "spotify.track_number": 7,
+        "spotify.href": "https://open.spotify.com/track/1oUjLEp7oCpjQlSCiwBZsF",
+        "spotify.id": "1oUjLEp7oCpjQlSCiwBZsF"
+    },
+    "13 roberto blades - si estuvieras conmigo": {
+        "artist": "Roberto Blades",
+        "title": "Si Estuvieras Conmigo",
+        "album": "Salsa Mix 3",
+        "release_date": "2013-05-23",
+        "spotify.uri": "spotify:track:4EHSmbrzCOZchEgbi67g4R",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/4EHSmbrzCOZchEgbi67g4R",
+        "spotify.id": "4EHSmbrzCOZchEgbi67g4R"
+    },
+    "El Centurion De La Noche - Joe Arroyo Discos Fuentes (2)": {
+        "artist": "Joe Arroyo & La Verdad",
+        "title": "El Centurion de la Noche",
+        "album": "En Accion",
+        "release_date": "2014-04-23",
+        "spotify.uri": "spotify:track:2NBVO1SbjAIVuemeXppxTa",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/2NBVO1SbjAIVuemeXppxTa",
+        "spotify.id": "2NBVO1SbjAIVuemeXppxTa"
+    },
+    "3 YO NO SE MANANA": {
+        "artist": "Luis Enrique",
+        "title": "Yo No Se Manana",
+        "album": "Super Salsa 2010",
+        "release_date": "2014-07-11",
+        "spotify.uri": "spotify:track:54uBpRpdpMx96JAk1OyHez",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/54uBpRpdpMx96JAk1OyHez",
+        "spotify.id": "54uBpRpdpMx96JAk1OyHez"
+    },
+    "18 SORPRESAS PEDRO NAVAJA PARTE 2 RUBEN BLADES (2)": {
+        "artist": "Ruben Blades",
+        "title": "Sorpresas",
+        "album": "Salsa Es Salsa",
+        "release_date": "2020-06-16",
+        "spotify.uri": "spotify:track:3Fr9FFWVlSWOBjBhjAiUWL",
+        "spotify.track_number": 1,
+        "spotify.href": "https://open.spotify.com/track/3Fr9FFWVlSWOBjBhjAiUWL",
+        "spotify.id": "3Fr9FFWVlSWOBjBhjAiUWL"
+    },
+    "12 mickey taveras - y que me pasa": {
+        "artist": "Mickey Taveras",
+        "title": "Y Que Me Pasa",
+        "album": "Y Que Me Pasa",
+        "release_date": "2018-03-08",
+        "spotify.uri": "spotify:track:7E6LWDOm7duh7iXF3is22H",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H",
+        "spotify.id": "7E6LWDOm7duh7iXF3is22H"
+    },
+    "15 tiempo pa matar": {
+        "artist": "Willie Colon",
+        "title": "Tiempo Pa Matar",
+        "album": "Salsa Extrabagante",
+        "release_date": "2020-05-14",
+        "spotify.uri": "spotify:track:6LC8pFSA5K9zJVSWiVQwf8",
+        "spotify.track_number": 6,
+        "spotify.href": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8",
+        "spotify.id": "6LC8pFSA5K9zJVSWiVQwf8"
+    },
+    "17 me gustas tanto": {
+        "artist": "Mickey Taveras",
+        "title": "Me Gustas Tanto",
+        "album": "Me Gustas Tanto",
+        "release_date": "2018-01-05",
+        "spotify.uri": "spotify:track:6tJSKtqbnNIGSEvLple1CS",
+        "spotify.track_number": 4,
+        "spotify.href": "https://open.spotify.com/track/6tJSKtqbnNIGSEvLple1CS",
+        "spotify.id": "6tJSKtqbnNIGSEvLple1CS"
+    },
+    "10 maestra vida": {
+        "artist": "Las Estrellas De La Fania",
+        "title": "Maestra Vida",
+        "album": "Hits Mundial",
+        "release_date": "2020-09-25",
+        "spotify.uri": "spotify:track:76EiBfBOkPwW4Il46XZ4qD",
+        "spotify.track_number": 8,
+        "spotify.href": "https://open.spotify.com/track/76EiBfBOkPwW4Il46XZ4qD",
+        "spotify.id": "76EiBfBOkPwW4Il46XZ4qD"
+    },
+    "21 W Gonzalez No Podras Escapar": {
+        "artist": "Willie Gonzalez",
+        "title": "No Podras Escapar de Mi",
+        "album": "Salsa Romanticas de Siempre",
+        "release_date": "2020-06-22",
+        "spotify.uri": "spotify:track:0lacKf3kZXbQ1F17QvurMs",
+        "spotify.track_number": 2,
+        "spotify.href": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs",
+        "spotify.id": "0lacKf3kZXbQ1F17QvurMs"
+    }
+}
