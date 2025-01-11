@@ -9,7 +9,7 @@ def get_token_info(language, sp_oauth):
     if not token_info:
         auth_url = sp_oauth.get_authorize_url()
 
-        print(messages.GET_TOKEN_MESSAGE[language].format(auth_url))
+        print(messages.GET_TOKEN_MESSAGE[language].format(auth_url = auth_url))
         response = input(messages.TYPE_URL_MESSAGE[language])
 
         code = sp_oauth.parse_response_code(response)
